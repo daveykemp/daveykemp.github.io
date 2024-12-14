@@ -17,7 +17,7 @@ use_math: null
 google_analytics: null
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-gist
