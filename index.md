@@ -16,6 +16,6 @@ We are always keen to hear from motivated students interested in joining the gro
 ## News
 > *05-10-24:* New review paper on hydroclimate changes during Toarcian OAE published in [*Earth-Science Reviews*](https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745)
   
-> *05-10-24:* Paper on a nee U-Pb chronology for the Toarcian OAE published in [*Geology*](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/52/12/891/648350/The-timing-and-duration-of-large-scale-carbon). Phys.org story [here](https://phys.org/news/2024-10-scientists-duration-major-hyperthermal-event.html)
+> *05-10-24:* New U-Pb chronology for the Toarcian OAE published in [*Geology*](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/52/12/891/648350/The-timing-and-duration-of-large-scale-carbon). Phys.org story [here](https://phys.org/news/2024-10-scientists-duration-major-hyperthermal-event.html)
 
 
