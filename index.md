@@ -9,7 +9,7 @@ permalink: /
 <table>
     <tr>
         <td>
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp">
+            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:1000px;">
         </td>
         <td valign="top">
             <p><b><b>Welcome to the web pages of Prof. David B. Kemp and his palaeoclimate and stratigraphy research group. Our work is focused on unravelling the climate history of the Earth through analysis of the sedimentary record.</b></b></p>
