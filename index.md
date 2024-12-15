@@ -13,13 +13,12 @@ We are always keen to hear from motivated students interested in joining the gro
 <table>
     <tr>
         <td>
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:180px;">
+            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:190px;">
         </td>
         <td valign="top">
             <p><b>Prof. David B. Kemp</b><br>School of Earth Sciences<br>China University of Geosciences (Wuhan)<br>388 Lumo Road<br>Wuhan 430074<br>P.R. China</p>
         </td>
     </tr>
 </table>
-* * *
 
 
