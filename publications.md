@@ -6,6 +6,8 @@ permalink: /publications
 
 # Publications
 * * *
+*Over 100 papers published in SCI journals*
+
 **2024**
 
 Chen, W., **Kemp, D.B.**, Jenkyns, H.C., Robinson, S.A., Guo, W., Jiang, S. & Li, C. 2024. Widespread upper-ocean deoxygenation in the Alpine-Mediterranean Tethys during the Toarcian Oceanic Anoxic Event, Global and Planetary Change, 243, 104631, doi:10.1016/j.gloplacha.2024.104631
