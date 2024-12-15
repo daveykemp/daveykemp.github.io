@@ -19,7 +19,7 @@ We are always keen to hear from motivated students interested in joining the gro
             <p><b>Prof. David B. Kemp</b><br>School of Earth Sciences<br>China University of Geosciences (Wuhan)<br>388 Lumo Road<br>Wuhan 430074<br>P.R. China</p>
         </td>
     </tr>
-
+</table>
 ## News
 > *15-12-24: Title*
 > New paper on Toarcian OAE published in *Earth-Science Reviews*.
