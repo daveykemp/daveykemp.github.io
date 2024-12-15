@@ -7,6 +7,7 @@ permalink: /publications
 # Publications
 * * *
 **2024**
+
 Chen, W., **Kemp, D.B.**, Jenkyns, H.C., Robinson, S.A., Guo, W., Jiang, S. & Li, C. 2024. Widespread upper-ocean deoxygenation in the Alpine-Mediterranean Tethys during the Toarcian Oceanic Anoxic Event, Global and Planetary Change, 243, 104631, doi:10.1016/j.gloplacha.2024.104631
 
 Zhao, D., Xiao G., Huang, C., Wu, H., Hao, Q., **Kemp, D.B.**, Tian, S., Wu, Z., Lu, H., Dai, G., Peng, S., Tang, C., Wu, J., Lin, Y., Zhu, S. & Yin, Q. 2024. Contrasting orbital rhythms preserved in loess grain-size records across the Chinese Loess Plateau, Global and Planetary Change, 243, 104613, doi:10.1016/j.gloplacha.2024.104613
@@ -62,6 +63,7 @@ Zhang, R., Huang, C., **Kemp, D.B.**, Zhang, Z., Wang, Z., Zhang, X., Zhao, D., 
 Liu, J., Ma, X., Lu, Y., Ogg, J.G., Yu, W., Qian, Z., Zhang, Z. Tai, H., Liu, Z., **Kemp, D.B.**, Huang, C. 2024. Astronomically forced late Paleocene-early Eocene climate variability in the Subei Basin, East China, Global and Planetary Change, 232, 104350, doi:10.1016/j.gloplacha.2023.104350
 
 **2023**
+
 Jin, S., **Kemp, D.B.**, Shen, J., Yin, R., Huang, C., Jolley, D.W. & Vieira, M. 2023. Spatiotemporal distribution of global mercury enrichments through the Paleocene-Eocene Thermal Maximum and links to volcanism, Earth-Science Reviews, 248, 104647, doi:10.1016/j.earscirev.2023.104647
 
 Wang, Z., Mao, Y., Zhang, R., **Kemp, D.B.** & Huang, C. 2023. Links between orbital forcing, Antarctic ice volume, and the East Asian hydrological cycle over the Pliocene, Journal of Geophysical Research: Atmospheres, 128, e2023JD039519, doi:10.1029/2023JD039519
@@ -109,6 +111,7 @@ Jin, S., **Kemp, D.B.**, Yin, R., Shen, J., Jolley, D.W., Vieira, M. & Huang, C.
 Jolley, D.W., Viera, M., Jin, S. & **Kemp, D.B.** 2023. Palynofloras, paleoenvironmental change and the inception of the Paleocene Eocene Thermal Maximum. The record of the Forties Fan, Sele Formation, North Sea Basin, Journal of the Geological Society (London), 180, doi:10.1144/jgs2021-131
 
 **2022**
+
 Zhang, Z., Licht, A., De Vleeschouwer, D., Wang, Z., Li, Y., **Kemp, D.B.**, Tan, L., Zhang, R., Qiang, X. & Huang, C. 2022. East Asian monsoonal climate sensitivity changed in the late Pliocene in response to Northern Hemisphere glaciations, Geophysical Research Letters, 49, e2022GL101280, doi:10.1029/2022GL101280
 
 **Kemp, D.B.** & Sadler, P.M. 2022. Incompleteness: dealing with an imperfect stratigraphical record. In: Coe, A.L. (ed.) Deciphering Earth history: The practice of stratigraphy, Geological Society, London, Geoscience in Practice 1, 213-225, doi:10.1144/GIP1-2022-37
@@ -132,6 +135,7 @@ Jin, S., **Kemp, D.B.**, Jolley, D.W., Viera, M., Zachos, J.C., Huang, C., Li, M
 Wang, M., Li, M., **Kemp, D.B.**, Boulila, S. & Ogg, J.G. 2022. Sedimentary noise modeling of lake-level change in the Late Triassic Newark Basin of North America, Global and Planetary Change, 208, doi:10.1016/j.gloplacha.2021.103706
 
 **2021**
+
 Chen, W., **Kemp, D.B.**, He, T., Huang, C., Jin, S., Xiong, Y. & Newton, R.J. 2021. First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes, Global and Planetary Change, 207, doi:10.1016/j.gloplacha.2021.103685
 
 Cao, M., Wang, Z., Sui, Y., Li, Y., Zhang, Z., Xiao, A., Zhang, R. & **Kemp, D.B.** 2021. Mineral dust coupled with climate‐carbon cycle on orbital timescales over the past 4 Ma. Geophysical Research Letters, 48, doi:10.1029/2021GL095327
@@ -145,6 +149,7 @@ Liu, D, Huang, C., **Kemp, D.B.**, Li, M., Yu, M. & Foster, W.J. 2021. Paleoclim
 Wang, Z., Huang, C., **Kemp, D.B.**, Zhang, Z. & Sui, Y. 2021. Distinct responses of late Miocene eolian and lacustrine systems to astronomical forcing in NE Tibet, Bulletin of the Geological Society of America, doi:10.1130/B35776.1
 
 **2020**
+
 **Kemp, D.B.**, Sadler, P.M. & Vanacker, V. 2020. The human impact on North American erosion, sediment transfer and storage in a geologic context, Nature Communications, 11, 6012, doi:10.1038/s41467-020-19744-3
 
 Huang, C., Ogg, J.G. & **Kemp, D.B.** 2020. Cyclostratigraphy and astrochronology: Case studies from China, Palaeogeography, Palaeoclimatology, Palaeoecology, 560, doi:10.1016/j.palaeo.2020.110017
@@ -164,6 +169,7 @@ Xu, Y., Jiang, R., Deng, Y., **Kemp, D.B.**, Yang, Z., Huang, C. & Zhu, Z. 2020.
 Izumi, K., Suzuki, K., **Kemp, D.B.** & Iizuka, T. 2020. Palaeogeographical and tectonic setting of the Lower Jurassic (Pliensbachian‐Toarcian) Nishinakayama Formation, Toyora Group, SW Japan, Geological Journal, 55, p. 862-874, doi:10.1002/gj.3466
 
 **2019**
+
 Sinnesael, M., De Vleeschouwer, D., Zeeden, C., Batenburg, S.J., Da Silva, A-C., de Winter, N.J., Dinarès-Turell, J., Drury, A.J., Gambacorta, G., Hilgen, F.J., Hinnov, L., Hudson, A., **Kemp, D.B.**, Lantink, M., Laurin, J., Li, M., Liebrand, D., Ma, C., Meyers, S.R., Monkenbusch, J., Montanari, A., Nohl, T., Pälike, H., Pass, D., Ruhl, M., Thibault, N., Vahlenkamp, M., Valero, L., Wouters, S., Wu, H. & Claeys, P. 2019. The cyclostratigraphy intercomparison project (CIP): consistency, merits and pitfalls of cyclostratigraphy, Earth Science Reviews, 199, doi:10.1016/j.earscirev.2019.102965
 
 Liu, Y., Huang, C., Ogg, J.G., Algeo, T.J., **Kemp, D.B.** & Shen, W. 2019. Oscillations of global sea level elevation during the Paleogene correspond to 1.2-myr amplitude modulation of orbital obliquity cycles, Earth and Planetary Science Letters, 522, p. 65-78, doi:10.1016/j.epsl.2019.06.023
@@ -179,6 +185,7 @@ Saker-Clark, M., **Kemp, D.B.** & Coe, A.L. 2019. Portable X-ray fluorescence sp
 Izumi, K., **Kemp, D.B.** & Breeden, B.T. 2019. The Nishinakayama Formation (Toyora Group) exposed along the Era River revisited: Preliminary report on recent outcrop condition and lithology, Bulletin of the Toyora Firefly Museum, 11, p. 25-35
 
 **2018**
+
 Sui, Y., Huang, C., Zhang, R., Wang, Z., Ogg, J.G. & **Kemp, D.B.** 2018. Astronomical time scale for the lower Doushantuo Formation of early Ediacaran, South China, Science Bulletin, 63, p. 1485-1494, doi:10.1016/j.scib.2018.10.010
 
 Han, Z., Hu, X., **Kemp, D.B.** & Li, J. 2018. Carbonate platform response to the Toarcian Oceanic Anoxic Event in the Tibetan Himalaya: Implications for environmental change and biotic platform demise, Earth and Planetary Science Letters, 489, p. 59-71, doi:10.1016/j.epsl.2018.02.017
@@ -190,7 +197,9 @@ Izumi, K., **Kemp, D.B.**, Itamiya, S. & Inui, M. 2018. Sedimentary evidence for
 Thibault, N., Ruhl, M., Ullmann, C.V., Korte, C., **Kemp, D.B.**, Gröcke, D.R. & Hesselbo, S.P. 2018. The wider context of the Lower Jurassic Toarcian Oceanic Anoxic Event in Yorkshire coastal outcrops, UK, Proceedings of the Geologists’ Association, 129, p. 372-291, doi.org/10.1016/j.pgeola.2017.10.007
 
 Izumi, K., Endo, K., **Kemp, D.B.** & Inui, M. 2018. Ocean redox conditions through the late Pliensbachian to early Toarcian in the northwestern Panthalassic margin: Insights from pyrite and geochemical data, Palaeogeography, Palaeoclimatology, Palaeoecology, 493, p. 1-10, doi:10.1016/j.palaeo.2017.12.024
+
 **2017**
+
 Ebinghaus, A., Jolley, D.W., Andrews, S. & **Kemp, D.B.** 2017. Lake sedimentological and ecological response to hyperthermals: Boltysh Impact Crater, Ukraine, Sedimentology, 64, p. 1465-1487, doi:10.1111/sed.12360
 
 Kirillova, N., **Kemp, D.B.** & Artemzeva, Z. 2017. Colorimetric analysis of soils using flatbed scanners, European Journal of Soil Science, 68, p. 420-433, doi:10.1111/ejss.12442
@@ -200,6 +209,7 @@ Jolley, D.W., Daly, R.J., Ebinghaus, A., **Kemp, D.B.**, Gilmour, I., Mac Niocai
 Marsaglia, K., Browne, G.H., George, S.C., **Kemp, D.B.**, Jaeger, J., Carson, D., Richaud, M. & IODP Expedition 317 Scientific Party. 2017. The transformation of sediment into rock: insights from IODP Site U1352, Canterbury Basin, New Zealand, Journal of Sedimentary Research, 87, p. 272-287, doi:10.2110/jsr.2017.15
 
 **2016**
+
 **Kemp, D.B.** 2016. Optimizing significance testing of astronomical forcing in cyclostratigraphy, Paleoceanography, 31, doi:10.1002/2016PA002963
 
 Miller, C.S., Gosling, W.D., **Kemp, D.B.**, Coe, A.L. & Gilmour, I. 2016. Drivers of ecosystem and climate change in tropical West Africa over the past ∼540 000 years, Journal of Quaternary Science, 31, p. 671-677, doi:10.1002/jqs.2893
@@ -207,11 +217,13 @@ Miller, C.S., Gosling, W.D., **Kemp, D.B.**, Coe, A.L. & Gilmour, I. 2016. Drive
 **Kemp, D.B.**, van Manen, S., Pollitt, D.A. & Burgess, P.M. 2016. Investigating the preservation of orbital forcing in peritidal carbonates, Sedimentology, 63, p. 1701-1718, doi:10.1111/sed.12282
 
 **2015**
+
 **Kemp, D.B.**, Eichenseer, K. & Kiessling, W. 2015. Maximum rates of climate change are systematically underestimated in the geological record, Nature Communications, 6, doi:10.1038/ncomms9890
 
 Jolley, D.W., Gilmour I., Gilmour, M.A., Kemp D.B., and Kelley S.P. 2015. Long term resilience decline in plant ecosystems across the Danian Dan-C2 hyperthermal event, Boltysh crater, Ukraine, Journal of the Geological Society (London), 172, p. 491-498, doi:10.1144/jgs2014-130
 
 **2014**
+
 **Kemp, D.B.**, & Izumi, K. 2014. Multiproxy geochemical analysis of a Panthalassic margin record of the early Toarcian oceanic anoxic event (Toyora area, Japan), Palaeogeography, Palaeoclimatology, Palaeoecology, 414, p. 332-341, doi:10.1016/j.palaeo.2014.09.019
 
 **Kemp, D.B.**, & Sexton, P.F. 2014. Timescale uncertainty of abrupt events in the geologic record arising from unsteady sedimentation, Geology, 42, p. 891-894, doi:10.1130/G35783.1
@@ -227,12 +239,15 @@ Smith, A.G., Barry, T., Bown, P., Cope, J., Gale, A., Gibbard, P., Hounslow, M.,
 **Kemp, D.B.** 2014. Colorimetric characterisation of flatbed scanners for rock/sediment imaging, Computers and Geosciences, 67, p. 69-74, doi:10.1016/j.cageo.2014.03.002
 
 **2013**
+
 Gilmour, I., Gilmour, M., Jolley, D.W., Kelley, S., **Kemp, D.B.**, Daly, R. & Watson, J. 2013. A high-resolution nonmarine record of an early Danian hyperthermal event, Boltysh Crater, Ukraine, Geology, 41, p. 783-786, doi:10.1130/G34292.1
 
 **2012**
+
 **Kemp, D.B.** 2012. Stochastic and deterministic controls on stratigraphic completeness and fidelity, International Journal of Earth Sciences, 101, p. 2225-2238, doi:10.1007/s00531-012-0784-1
 
 **2011**
+
 **Kemp, D.B.** 2011. Shallow water records of astronomical forcing and the eccentricity paradox, Geology, 39, p. 491-494, doi:10.1130/G31878.1
 
 **Kemp, D.B.**, Coe, A.L., Cohen, A.S. & Weedon, G.P. 2011. Astronomical forcing and chronology of the early Toarcian (Early Jurassic) Oceanic Anoxic Event in Yorkshire, UK, Paleoceanography, 26, PA4210, doi:10.1029/2011PA002122
@@ -244,14 +259,17 @@ Fulthorpe, C.S., Hoyanagi, K., Blum, P., and Expedition 317 Scientists (inc. **K
 Fulthorpe, C.S., Hoyanagi, K., Blum, P., and Expedition 317 Scientists (inc. **Kemp, D.B.**). 2011. Proceedings of the integrated Ocean Drilling Program Volume 317, Integrated Ocean Drilling Program Management International Inc., Tokyo, doi:10.2204/iodp.proc.317.2011
 
 **2009**
+
 Li, G., Ji, J., Chen, J., **Kemp, D.B.** 2009. Evolution of the Cenozoic carbon cycle: the role of tectonics and CO2 fertilization, Global Biogeochemical Cycles, 23, doi:10.1029/2008GB003220
 
 **2007**
+
 **Kemp, D.B.**, & Coe, A.L. 2007. A nonmarine record of eccentricity forcing through the Upper Triassic of southwest England and its correlation with the Newark Basin astronomically calibrated geomagnetic polarity time scale from North America, Geology, 35, p. 991-994, doi:10.1130/G24155A.1
 
 Cohen, A.S., Coe, A.L. & **Kemp, D.B.** 2007. The Late Palaeocene-Early Eocene and Toarcian (Early Jurassic) carbon isotope excursions: a comparison of their timescales, associated environmental changes, causes and consequences, Journal of the Geological Society (London), 164(6), p. 1092-1108, doi:10.1144/0016-76492006-123
 
 **2005**
+
 **Kemp, D.B.**, Coe, A.L., Cohen, A.S. & Schwark, L. 2005. Astronomical pacing of methane release in the Early Jurassic period, Nature, 437, p. 396-399, doi:10.1038/nature04037
 
 * * *
