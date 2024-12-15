@@ -6,8 +6,8 @@ permalink: /team
 
 # Research Team
 * * *
-As of 2024, the research group comprises 5 PhD students and 5 MSc students
-<br>
+As of 2024, the research group comprises 5 PhD students and 5 MSc students. 
+
 ![Team fieldwork](/images/teamfieldwork.png)
 <table>
     <tr>
