@@ -15,3 +15,5 @@ Facilities include:
 * Olympus BTXII Terra benchtop XRD analyzer
 * Konica-Minolta CM-700d spectrophotometer
 * Thermo iS20 Nicolet FTIR
+
+![Kemp laboratory](/images/lab.png)
