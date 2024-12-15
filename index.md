@@ -16,10 +16,15 @@ We are always keen to hear from motivated students interested in joining our gro
 <table>
     <tr>
         <td>
-            <img src="/images/photo.jpeg" alt="David B. Kemp">
+            <img src="/images/photo.jpeg" alt="David B. Kemp" style="width:200px;height:270px;">
         </td>
         <td>
-            <p>David B. Kemp, School of Earth Sciences, China University of Geosciences (Wuhan), 388 Lumo Road, Wuhan 430074, P.R. China</p>
+            <p>David B. Kemp</p>p>
+            <p>School of Earth Sciences</p>
+            <p>China University of Geosciences, Wuhan</p>
+            <p>388 Lumo Road</p>
+            <p>Wuhan 430074</p>
+            <p>P.R. China</p>
         </td>
     </tr>
 
