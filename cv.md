@@ -12,13 +12,9 @@ permalink: /cv
 * Lecturer (Assistant Professor), University of Aberdeen, 2015-2018
 * NERC Independent Research Fellow, Open University, 2012-2015
 * NERC Post-doctoral Research Associate, University College London, 2011-2012
-* Junior Research Fellow, University of Cambridge, 2008-2011
-
-**EDUCATION**
-     
+* Junior Research Fellow, University of Cambridge, 2008-2011     
 * PhD (NERC funded), Open University, 2002-2006
     * Thesis: “Astronomical forcing through the early Toarcian and Late Triassic”. Supervisor Prof. Angela Coe. Examiner: Prof. Hugh Jenkyns (Oxford)
-* MSci Geoscience 1st Class (hons.), Royal Holloway, University of London, 1997-2001
 
 **AWARDS AND LEADERSHIP**
 
