@@ -13,22 +13,22 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper" align="right">
+    <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p align="right">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p><img src="images/wavyline.png" alt="wavyline" style="width:220px;"></p> 
-        <p class="view"><a href="/about">About</a>
-        <p class="view"><a href="/research">Research</a>
-        <p class="view"><a href="/team">Team</a>
-        <p class="view"><a href="/laboratory">Laboratory</a>
-        <p class="view"><a href="/publications">Publications</a>
-        <p class="view"><a href="/cv">CV</a>
+        <p align="right"><img src="images/wavyline.png" alt="wavyline" style="width:220px;"></p> 
+        <p align="right" class="view"><a href="/about">About</a>
+        <p align="right" class="view"><a href="/research">Research</a>
+        <p align="right" class="view"><a href="/team">Team</a>
+        <p align="right" class="view"><a href="/laboratory">Laboratory</a>
+        <p align="right" class="view"><a href="/publications">Publications</a>
+        <p align="right" class="view"><a href="/cv">CV</a>
           
       </header>
-      <section align="left">
+      <section>
 
       {{ content }}
 
