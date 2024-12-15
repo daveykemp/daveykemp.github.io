@@ -6,7 +6,7 @@ permalink: /team
 
 # Research Team
 * * *
-*As of 2024, 5 PhD students, 5 MSc students*
+*As of 2024, 5 PhD students, 5 MSc students*<br>兴趣的研究生或博士与我们联系，加入我们的研究团队! [Get in touch](mailto:davidkemp@cug.edu.cn)
 <table>
     <tr>
         <td>
