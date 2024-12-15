@@ -39,7 +39,7 @@ The research group currently comprises 5 PhD students and 5 MSc students. If you
             <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" width="100">
         </td>
         <td valign="top">
-            <p><b>Jiang Shouyi (PhD)</b><br>Foraminferal responses to the Toarcian OAE in Tibet</p>
+            <p><b>Jiang Shouyi (PhD)</b><br>Foraminiferal responses to the Toarcian OAE in Tibet</p>
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ The research group currently comprises 5 PhD students and 5 MSc students. If you
             <img src="/images/sunxilei.png" alt="Sun Xilei" width="100">
         </td>
         <td valign="top">
-            <p><b>Sun Xilei (MSc/PhD)</b><br>Hg across major climate events, Permian-Triassic timescale</p>
+            <p><b>Sun Xilei (MSc/PhD)</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
         </td>
     </tr>
     <tr>
