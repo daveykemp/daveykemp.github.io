@@ -8,8 +8,7 @@ permalink: /research
 * * *
 Our work is focused on unravelling the climate history of the Earth through analysis of the sedimentary record. We use tools such as geochemistry, sedimentology and numerical modelling to understand the causes, consequences and timescales of past environmental change, and how these changes are preserved in the geologic record. Research interests include:
 
-* Causes and consequences of rapid climate change in the Mesozoic to Paleogene
-* Role of orbital forcing in driving/pacing abrupt climate changes in Earth history
+* Causes and consequences of rapid paleoclimate change
 * Sedimentological responses to extreme warming, both in the past and at the present day
 * Numerical modeling of sedimentary systems
 * Cyclostratigraphic timescale construction
