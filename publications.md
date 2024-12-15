@@ -6,7 +6,7 @@ permalink: /publications
 
 # Publications
 * * *
-*Over 100 papers published in SCI journals*
+*>100 papers published in SCI journals. Full listing at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)*
 
 **2024**
 
