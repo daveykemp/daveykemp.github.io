@@ -34,7 +34,7 @@ permalink: /team
     </tr>
     <tr>
         <td>
-            <img src="/images/jiangshouyi" alt="Jiang Shouyi">
+            <img src="/images/jiangshouyi.png" alt="Jiang Shouyi">
         </td>
         <td valign="top">
             <p><b>Jiang Shouyi (PhD)</b><br>Foraminferal responses to the Toarcian OAE in Tibet</p>
@@ -42,7 +42,7 @@ permalink: /team
     </tr>
     <tr>
         <td>
-            <img src="/images/zangjingjie" alt="Zang Jingie">
+            <img src="/images/zangjingjie.png" alt="Zang Jingie">
         </td>
         <td valign="top">
             <p><b>Zang Jingjie (PhD)</b><br>GDGT-based temperature changes through the Last Glacial Maximum to present in central China</p>
