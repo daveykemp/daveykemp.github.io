@@ -14,7 +14,6 @@ permalink: /cv
 * NERC Post-doctoral Research Associate, University College London, 2011-2012
 * Junior Research Fellow, University of Cambridge, 2008-2011     
 * PhD (NERC funded), Open University, 2002-2006
-    * Thesis: “Astronomical forcing through the early Toarcian and Late Triassic”. Supervisor Prof. Angela Coe. Examiner: Prof. Hugh Jenkyns (Oxford)
 
 **AWARDS AND LEADERSHIP**
 
