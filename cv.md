@@ -13,7 +13,6 @@ permalink: /cv
 * NERC Independent Research Fellow, Open University, 2012-2015
 * NERC Post-doctoral Research Associate, University College London, 2011-2012
 * Junior Research Fellow, University of Cambridge, 2008-2011
-* Team Leader (Sequence Stratigraphy), Neftex Petroleum Consultants Ltd. (now Halliburton), 2006-2008
 
 **EDUCATION**
      
@@ -37,7 +36,7 @@ permalink: /cv
 * NSFC Basic Science Center Program (基础科学中心项目) (Co-I, 专题负责人), 2019-2023 (No. 41888101) “Evolution of the East Asian Monsoon”. CNY¥1,000,000 (£124,000)
 * Carnegie Research Incentive Grant (Co-I), 2018-2019 “Modelling the regional variability of long-term terrestrial environmental response to an ancient hyperthermal in Europe”. £6,510
 * NERC Facilities Grant (PI), 2017-2019 (IP-1673-116) “Radio-isotopic constraints on the timing and duration of the early Toarcian oceanic anoxic event”. £47,150
-* NERC Independent Research Fellowship, 2012-2015 (NE/I02089X/1) “Astronomical forcing and rapid climate change in the Jurassic”. £376,324
 * EU capacity building grant (Co-I), 2016-2018 (135375/L/Act/Tz) “Stratigraphic, Palaeontological and Thermal Evolution of the Mesozoic Coastal Sedimentary Basin (MCSB) of Tanzania”. £13,000
+* NERC Independent Research Fellowship, 2012-2015 (NE/I02089X/1) “Astronomical forcing and rapid climate change in the Jurassic”. £376,324
 
 * * *
