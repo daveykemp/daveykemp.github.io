@@ -23,7 +23,7 @@ We are always keen to hear from motivated students interested in joining the gro
 <table>
     <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>10-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
+            <p><b><i>20-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/esr_news.png" alt="Earth-Science Reviews paper">
@@ -35,6 +35,14 @@ We are always keen to hear from motivated students interested in joining the gro
         </td>
         <td valign="middle">
             <img src="/images/geology_news.png" alt="Geology paper">
+        </td>
+    </tr>
+        <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>15-08-2024</i></b><br>New paper on increased rates of sedimentation during the Carnian Pluvial Episode published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124000845?dgcid=rss_sd_all">Global and Planetary Change</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/cpe_news.png" alt="Carnian CPE paper">
         </td>
     </tr>
 </table>
