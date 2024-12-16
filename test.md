@@ -20,17 +20,16 @@ permalink: /test
 We are always keen to hear from motivated students interested in joining the group at either MSc or PhD level. 欢迎感兴趣的研究生或博士与我们联系，加入我们的研究团队. You can get in touch with us [here](mailto:davidkemp@cug.edu.cn)
 
 ## News
-* * *
 <table>
     <tr>
         <th><i>10-10-2024</i></th>
      </tr>
      <tr>
-        <td valign="top" style="width:30%">
+        <td valign="top" style="width:50%">
             <img src="/images/talk.jpg" alt="PPT presentation">
         </td>
         <td valign="top">
-            <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
+            <p>New paper on hydroclimate changes during the Toarcian OAE published in <i>Earth-Science Reviews</i>. Accompanying news story here</p>
         </td>
     </tr>
 </table>
