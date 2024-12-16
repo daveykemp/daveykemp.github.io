@@ -20,5 +20,3 @@ We are always keen to hear from motivated students interested in joining the gro
         </td>
     </tr>
 </table>
-
-
