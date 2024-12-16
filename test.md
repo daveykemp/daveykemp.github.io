@@ -23,7 +23,7 @@ We are always keen to hear from motivated students interested in joining the gro
 <table>
     <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>10-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i></i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
+            <p><b><i>10-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/esr_news.png" alt="Earth-Science Reviews paper">
@@ -31,7 +31,7 @@ We are always keen to hear from motivated students interested in joining the gro
     </tr>
     <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>10-10-2024</i></b><br>New paper on the age and duration of the Toarcian OAE published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/52/12/891/648350/The-timing-and-duration-of-large-scale-carbon?redirectedFrom=fulltext">Geology<</a></i>. Accompanying <a href="https://https://phys.org/news/2024-10-scientists-duration-major-hyperthermal-event.html">phys.org</a> news story</p>
+            <p><b><i>10-10-2024</i></b><br>New paper on the age and duration of the Toarcian OAE published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/52/12/891/648350/The-timing-and-duration-of-large-scale-carbon?redirectedFrom=fulltext">Geology</a></i>. Accompanying <a href="https://https://phys.org/news/2024-10-scientists-duration-major-hyperthermal-event.html">phys.org</a> news story</p>
         </td>
         <td valign="middle">
             <a href="https://https://phys.org/news/2024-10-scientists-duration-major-hyperthermal-event.html"><img src="/images/geology_news.png" alt="Geology paper"</a>
