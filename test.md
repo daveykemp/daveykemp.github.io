@@ -3,9 +3,6 @@ layout: default
 title: "Test"
 permalink: /test
 ---
-<div class="verticalLine">
-    something
-</div>
 # Home
 * * *
 <table>
