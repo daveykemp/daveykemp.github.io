@@ -8,8 +8,8 @@ permalink: /test
 * * *
 <table>
     <tr>
-        <td style="width:70%">
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:400px;">
+        <td style="width:30%">
+            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:400px">
         </td>
         <td valign="top">
             <p><b>Welcome to the web pages of Prof. David B. Kemp and his paleoenvironmental change research group at China University of Geosciences (Wuhan). Our work is focused on unravelling the climate history of the Earth through analysis of the sedimentary record.</b></p>
@@ -26,19 +26,8 @@ We are always keen to hear from motivated students interested in joining the gro
         <th><i>10-10-2024</i></th><
     </tr>
     <tr>
-        <td valign="top">
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:140px;">
-        </td>
-        <td valign="top">
-            <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
-        </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <p><i>Title, Date</i></p>
-        <td>
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:90px;">
+        <td valign="top" style="width:20%">>
+            <img src="/images/talk.jpeg" alt="David B. Kemp">
         </td>
         <td valign="top">
             <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
