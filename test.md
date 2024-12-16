@@ -23,7 +23,7 @@ We are always keen to hear from motivated students interested in joining the gro
 <table>
     <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>20-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
+            <p><b><i>05-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/esr_news.jpg" alt="Earth-Science Reviews paper">
@@ -37,7 +37,15 @@ We are always keen to hear from motivated students interested in joining the gro
             <img src="/images/geology_news.png" alt="Geology paper">
         </td>
     </tr>
-        <tr>
+    <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>16-09-2024</i></b><br>New paper by ex-PhD student Hua Xia on the mercury paleo-volcanism proxy published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124002364">Global and Planetary Change</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/huahg_news.jpg" alt="Global and Planetary Change paper">
+        </td>
+    </tr>
+    <tr>
         <td valign="top" style="width:70%">
             <p><b><i>15-08-2024</i></b><br>New paper on increased rates of sedimentation during the Carnian Pluvial Episode published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124000845?dgcid=rss_sd_all">Global and Planetary Change</a></i></p>
         </td>
