@@ -25,7 +25,7 @@ We are always keen to hear from motivated students interested in joining the gro
         <td valign="top" style="width:70%">
             <p><b><i>10-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i>Earth-Science Reviews</i>. Accompanying news story here</p>
         </td>
-        <td valign="top">
+        <td valign="bottom">
             <img src="/images/talk.jpg" alt="PPT presentation">
         </td>
     </tr>
