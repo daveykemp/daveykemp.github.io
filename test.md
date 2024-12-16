@@ -22,7 +22,7 @@ We are always keen to hear from motivated students interested in joining the gro
 ## News
 <table>
     <tr>
-        <th><i>10-10-2024</i></th>
+        <th align="left"><i>10-10-2024</i></th>
      </tr>
      <tr>
         <td valign="top" style="width:50%">
