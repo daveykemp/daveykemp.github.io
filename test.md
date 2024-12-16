@@ -42,7 +42,7 @@ We are always keen to hear from motivated students interested in joining the gro
             <p><b><i>16-09-2024</i></b><br>New paper by ex-PhD student Hua Xia on the mercury paleo-volcanism proxy published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124002364">Global and Planetary Change</a></i></p>
         </td>
         <td valign="middle">
-            <img src="/images/huahg_news.jpg" alt="Global and Planetary Change paper">
+            <img src="/images/hghua_news.png" alt="Global and Planetary Change paper">
         </td>
     </tr>
     <tr>
