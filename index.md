@@ -7,7 +7,7 @@ permalink: /
 * * *
 <table>
     <tr>
-        <td style="width:40%">
+        <td valign="middle" style="width:40%">
             <img src="/images/profilepic.jpeg" alt="David B. Kemp">
         </td>
         <td valign="top">
