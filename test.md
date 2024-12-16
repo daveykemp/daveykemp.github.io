@@ -26,7 +26,7 @@ We are always keen to hear from motivated students interested in joining the gro
             <p><b><i>20-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
         </td>
         <td valign="middle">
-            <img src="/images/esr_news.png" alt="Earth-Science Reviews paper">
+            <img src="/images/esr_news.jpg" alt="Earth-Science Reviews paper">
         </td>
     </tr>
     <tr>
