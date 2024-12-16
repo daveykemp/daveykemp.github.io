@@ -24,8 +24,18 @@ We are always keen to hear from motivated students interested in joining the gro
 >
 <table>
     <tr>
-        <p>Title, Date</p>
+        <p><i>Title, Date</i></p>
+        <td>
+            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:90px;">
+        </td>
+        <td valign="top">
+            <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
+        </td>
     </tr>
+</table>
+<table>
+    <tr>
+        <p><i>Title, Date</i></p>
         <td>
             <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:90px;">
         </td>
