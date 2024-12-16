@@ -22,11 +22,8 @@ We are always keen to hear from motivated students interested in joining the gro
 ## News
 * * *
 <table>
-    <tr>
-        <th><i>10-10-2024</i></th><
-    </tr>
-    <tr>
-        <td valign="top" style="width:20%">>
+     <tr>
+        <td valign="top" style="width:20%">
             <img src="/images/talk.jpg" alt="PPT presentation">
         </td>
         <td valign="top">
