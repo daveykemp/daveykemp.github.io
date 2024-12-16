@@ -27,7 +27,7 @@ We are always keen to hear from motivated students interested in joining the gro
     </tr>
     <tr>
         <td valign="top" style="width:20%">>
-            <img src="/images/talk.jpeg" alt="David B. Kemp">
+            <img src="/images/talk.jpg" alt="PPT presentation">
         </td>
         <td valign="top">
             <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
