@@ -24,9 +24,11 @@ We are always keen to hear from motivated students interested in joining the gro
 >
 <table>
     <tr>
-        <th><i>10-10-2024</i></th>
-        <td>
-            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="height:140px;">
+        <th><i>10-10-2024</i></th><
+    </tr>
+    <tr>
+        <td valign="top">
+            <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:140px;">
         </td>
         <td valign="top">
             <p>New paper on hydroclimate changes during the Toarcian OAE published in Earth-Science Reviews. Accompanying news story here</p>
