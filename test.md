@@ -8,7 +8,7 @@ permalink: /test
 * * *
 <table>
     <tr>
-        <td>
+        <td style="width:70%">
             <img src="/images/profilepic.jpeg" alt="David B. Kemp" style="width:400px;">
         </td>
         <td valign="top">
@@ -21,7 +21,6 @@ We are always keen to hear from motivated students interested in joining the gro
 
 ## News
 * * *
->
 <table>
     <tr>
         <th><i>10-10-2024</i></th><
