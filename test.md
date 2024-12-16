@@ -12,7 +12,7 @@ permalink: /test
             <img src="/images/profilepic.jpeg" alt="David B. Kemp">
         </td>
         <td valign="top">
-            <p><b>Welcome to the web pages of Prof. David B. Kemp and his paleoenvironmental change research group at China University of Geosciences (Wuhan). Our work is focused on unravelling the climate history of the Earth through analysis of the sedimentary record.</b></p>
+           <div class="verticalLine"><p><b>Welcome to the web pages of Prof. David B. Kemp and his paleoenvironmental change research group at China University of Geosciences (Wuhan). Our work is focused on unravelling the climate history of the Earth through analysis of the sedimentary record.</b></p></div>
         </td>
     </tr>
 </table>
