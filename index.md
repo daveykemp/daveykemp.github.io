@@ -10,17 +10,6 @@ Welcome to the web pages of Prof. David B. Kemp and his palaeoclimate and strati
   
 We are always keen to hear from motivated students interested in joining the group at either MSc or PhD level. 欢迎感兴趣的研究生或博士与我们联系，加入我们的研究团队. You can get in touch with us [here](mailto:davidkemp@cug.edu.cn)
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
 <table>
     <tr>
         <td>
