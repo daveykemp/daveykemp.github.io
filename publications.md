@@ -273,6 +273,3 @@ Cohen, A.S., Coe, A.L. & **Kemp, D.B.** 2007. The Late Palaeocene-Early Eocene a
 **2005**
 
 **Kemp, D.B.**, Coe, A.L., Cohen, A.S. & Schwark, L. 2005. Astronomical pacing of methane release in the Early Jurassic period, Nature, 437, p. 396-399, doi:10.1038/nature04037
-
-* * *
-
