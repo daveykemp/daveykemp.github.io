@@ -6,6 +6,7 @@ permalink: /cv
 
 # CV
 * * *
+## David B. Kemp
 **Career**
 
 * Professor (Full), China University of Geosciences (Wuhan), 2018-present
