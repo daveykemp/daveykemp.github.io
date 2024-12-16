@@ -18,7 +18,7 @@ permalink: /test
   
 We are always keen to hear from motivated students interested in joining the group at either MSc or PhD level. 欢迎感兴趣的研究生或博士与我们联系，加入我们的研究团队. You can get in touch with us [here](mailto:davidkemp@cug.edu.cn)
 
-## News
+## Latest news
 * * *
 <table>
     <tr>
