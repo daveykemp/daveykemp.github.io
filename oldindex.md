@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Home"
-permalink: /
+title: "Oldindex"
+permalink: /oldindex
 ---
 
 # Home
