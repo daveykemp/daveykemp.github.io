@@ -6,7 +6,7 @@ permalink: /publications
 
 # Publications
 * * *
-Over 100 papers have been published, including first author/corresponding author papers in *Nature*, *Nature Communications*, and *Geology*. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
+Over 100 papers have been published. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
   
 **2024**
 
