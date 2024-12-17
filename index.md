@@ -17,10 +17,8 @@ permalink: /
 </table>
 
 ## Latest news
+* * *
 <table>
-    <tr>
-        <td></td>
-    </tr>
     <tr>
         <td valign="top" style="width:70%">
             <p><b><i>05-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
