@@ -17,7 +17,6 @@ permalink: /
 </table>
 
 ## Latest news
-* * *
 <table>
     <tr>
         <td valign="top" style="width:70%">
