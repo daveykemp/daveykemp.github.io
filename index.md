@@ -21,6 +21,14 @@ permalink: /
 <table>
     <tr>
         <td valign="top" style="width:70%">
+            <p><b><i>10-11-2024</i></b><br>New paper on Toarcian OAE upper ocean deoxygenation published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124002789">Global and Planetary Change</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/chengpc_news.png" alt="Chen Global and Planetary Change paper">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:70%">
             <p><b><i>05-10-2024</i></b><br>New paper on hydroclimate changes during the Toarcian OAE published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012825224002745">Earth-Science Reviews</a></i></p>
         </td>
         <td valign="middle">
