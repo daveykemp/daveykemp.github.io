@@ -16,7 +16,7 @@ permalink: /cv
 * Junior Research Fellow, University of Cambridge, 2008-2011     
 * PhD (NERC funded), Open University, 2002-2006
 
-**Awards and Leadship**
+**Awards and Leadership**
 
 * Winner of the Sun Shu Prize (International) in Sedimentology (2024)
 * Secretary of the International Subcommission on Jurassic Stratigraphy (2020-2028)
