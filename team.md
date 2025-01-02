@@ -3,7 +3,15 @@ layout: default
 title: "Team"
 permalink: /team
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1KXMJR6E0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1KXMJR6E0L');
+</script>
 # Team
 * * *
 The research group currently comprises 5 PhD students and 5 MSc students. If you are interested in joining the group, you can get in touch with us [here](mailto:davidkemp@cug.edu.cn).
