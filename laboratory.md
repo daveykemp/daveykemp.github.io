@@ -3,7 +3,15 @@ layout: default
 title: "Laboratory"
 permalink: /laboratory
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1KXMJR6E0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1KXMJR6E0L');
+</script>
 # Laboratory
 * * *
 We run a state-of-the-art lab at China University of Geosciences (Wuhan) designed for rapid geochemical characterization of sedimentary rocks, cyclostratigraphic timescale construction, and high-resolution paleoclimate analysis. For enquiries about external collaboration and use of the facilities, [get in touch](mailto:davidkemp@cug.edu.cn).
