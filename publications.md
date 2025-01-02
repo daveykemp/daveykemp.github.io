@@ -3,7 +3,15 @@ layout: default
 title: "Publications"
 permalink: /publications
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1KXMJR6E0L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1KXMJR6E0L');
+</script>
 # Publications
 * * *
 Over 100 papers have been published. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
