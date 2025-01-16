@@ -34,10 +34,10 @@ permalink: /cv
 
 **Funding**
 
-* MOST National Key R&D Program of China (国家重点研发计划) (Co-I, 专题负责人), 2023-2028 (No. 2023YFF0804000) “Deep-time ocean anoxic events and environmental change”. CNY¥800,000 (£90,000)
-* NSFC General Project (面上项目) (PI), 2023-2025 (No. 42272033) “An astronomical timescale and hydrology record through the early Paleogene of the Gonjo Basin”. CNY¥570,000 (£71,000)
-* NSFC Basic Science Center Program (基础科学中心项目) (Co-I, 专题负责人), 2019-2023 (No. 41888101) “Evolution of the East Asian Monsoon”. CNY¥1,000,000 (£124,000)
-* Carnegie Research Incentive Grant (Co-I), 2018-2019 “Modelling the regional variability of long-term terrestrial environmental response to an ancient hyperthermal in Europe”. £6,510
-* NERC Facilities Grant (PI), 2017-2019 (IP-1673-116) “Radio-isotopic constraints on the timing and duration of the early Toarcian oceanic anoxic event”. £47,150
-* EU capacity building grant (Co-I), 2016-2018 (135375/L/Act/Tz) “Stratigraphic, Palaeontological and Thermal Evolution of the Mesozoic Coastal Sedimentary Basin (MCSB) of Tanzania”. £13,000
-* NERC Independent Research Fellowship, 2012-2015 (NE/I02089X/1) “Astronomical forcing and rapid climate change in the Jurassic”. £376,324
+* MOST National Key R&D Program of China (国家重点研发计划) (Co-I, 专题负责人), 2023-2028 (No. 2023YFF0804000) “Deep-time ocean anoxic events and environmental change” 
+* NSFC General Project (面上项目) (PI), 2023-2025 (No. 42272033) “An astronomical timescale and hydrology record through the early Paleogene of the Gonjo Basin”
+* NSFC Basic Science Center Program (基础科学中心项目) (Co-I, 专题负责人), 2019-2023 (No. 41888101) “Evolution of the East Asian Monsoon”
+* Carnegie Research Incentive Grant (Co-I), 2018-2019 “Modelling the regional variability of long-term terrestrial environmental response to an ancient hyperthermal in Europe”
+* NERC Facilities Grant (PI), 2017-2019 (IP-1673-116) “Radio-isotopic constraints on the timing and duration of the early Toarcian oceanic anoxic event”
+* EU capacity building grant (Co-I), 2016-2018 (135375/L/Act/Tz) “Stratigraphic, Palaeontological and Thermal Evolution of the Mesozoic Coastal Sedimentary Basin (MCSB) of Tanzania”
+* NERC Independent Research Fellowship, 2012-2015 (NE/I02089X/1) “Astronomical forcing and rapid climate change in the Jurassic”
