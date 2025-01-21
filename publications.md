@@ -16,6 +16,12 @@ permalink: /publications
 * * *
 Over 100 papers have been published. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
   
+**2025**
+
+Bao, Z., Li, G., **Kemp, D.B.**, Jin, S., Jiang, G., Wang, T., Li, X., Li, X., Li, Y., Zhang, W., Ding, J., Yao, Y., Wang, J., Zhang, W., Li, J. & Xu, X. 2025. Benthic foraminiferal biostratigraphy, microfacies analysis, depositional environment during the PETM in the Tingri-Gamba Basin, Southern Tibet, Palaeogeography, Palaeoclimatology, Palaeoecology, 661, 112684, doi:10.1016/j.palaeo.2024.112684
+
+Li, Y., Tan, L., Jin, S., Xu, H., Chen, L., **Kemp, D.B.**, Sinha, A., Ma, L., Huang, C., Edwards, L.R. & Cheng, H. 2025. Mercury deposition in central China from the Last Glacial Maximum to the early Holocene recorded in an accurately-dated stalagmite, Science Bulletin, 90-95, doi:10.1016/j.scib.2024.07.045
+
 **2024**
 
 Chen, W., **Kemp, D.B.**, Jenkyns, H.C., Robinson, S.A., Guo, W., Jiang, S. & Li, C. 2024. Widespread upper-ocean deoxygenation in the Alpine-Mediterranean Tethys during the Toarcian Oceanic Anoxic Event, Global and Planetary Change, 243, 104631, doi:10.1016/j.gloplacha.2024.104631
@@ -43,8 +49,6 @@ Jin, S., **Kemp, D.B.**, Zhang, Z., Huang, C. & Liu, Q. 2024. Response of turbid
 Wei W., **Kemp, D.B.**, Lu, Y., Wang, Z., Ma, Y., Liu, H., Zhang, S. Zhang, J., Teng, X., Robbins, L.J. & Konhauser, K. 2024. Astronomically forced salinity variations in a marginal-marine environment, Bohai Bay Basin, NE China, Chemical Geology, 665, 122300, doi:10.1016/j.chemgeo.2024.122300
 
 Ge, Y., Han, Z., Algeo, T.J., **Kemp, D.B.** & Wu, L. 2024. Heterogeneous marine response during the Toarcian Ocean Anoxic Event (TOAE): The potential role of storminess, Global and Planetary Change, 242, 104533, doi:10.1016/j.gloplacha.2024.104533
-
-Li, Y., Tan, L., Jin, S., Xu, H., Chen, L., **Kemp, D.B.**, Sinha, A., Ma, L., Huang, C., Edwards, L.R. & Cheng, H. 2024. Mercury deposition in central China from the Last Glacial Maximum to the early Holocene recorded in accurately-dated stalagmite, Science Bulletin, doi:10.1016/j.scib.2024.07.045
 
 Zhang, Z., Röhling, E.J., **Kemp, D.B.**, Wang, Z. & Huang, C. 2024. Orbital-scale global ocean sea surface temperature coupling with cryosphere-carbon cycle changes over the past 4 million years, Paleoceanography and Paleoclimatology, 39, e2024PA004856, doi:10.1029/2024PA004856
 
