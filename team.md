@@ -17,7 +17,7 @@ permalink: /team
 The research group currently comprises 5 PhD students and 5 MSc students. If you are interested in joining the group, you can get in touch with us [here](mailto:davidkemp@cug.edu.cn).
 
 <img src="/images/teamfieldwork.png" alt="Team fieldwork">
-  
+
 <table>
     <tr>
         <td>
