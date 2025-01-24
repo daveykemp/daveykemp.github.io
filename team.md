@@ -21,13 +21,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="200">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" height="200">
         </td>
         <td>
-            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" width="200">
+            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" height="200">
         </td>
         <td>
-            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" width="200">
+            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" height="200">
         </td>
     </tr>
     <tr>
