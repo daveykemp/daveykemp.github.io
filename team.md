@@ -21,7 +21,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" height="200" align="top">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" height="300" align="top">
             <p><b>Zhu Yuqing (PhD)</b><br>Hg cycling across the Toarcian OAE</p>
         </td>
         <td>
@@ -38,7 +38,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
     <tr>
         <td>
             <img src="/images/wanxin_pic.jpg" alt="Wan Xin" height="200" align="top">
-            <p><b>Wan Xin (MSc)</b><br>Orbital-scale evolution of deoxygenation across the Toarcian OAE</p>
+            <p><b>Wan Xin (MSc)</b><br>Orbital-scale pattern and evolution of deoxygenation across the Toarcian OAE</p>
         </td>
         <td>
             <img src="/images/hezixin.png" alt="He Zixin" height="200" align="top">
@@ -58,7 +58,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" wheight="200" align="top">
-            <p><b>Jiang Shouyi (PhD)</b><br>Foraminiferal responses to the Toarcian OAE in Tibet</p>
+            <p><b>Jiang Shouyi (PhD)</b><br>Foraminifera diversity responses to the Toarcian OAE in Tibet</p>
         </td>
         <td>
             <img src="/images/sunxilei.png" alt="Sun Xilei" height="200" align="top">
