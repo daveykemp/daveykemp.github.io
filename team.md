@@ -21,7 +21,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" height="300" align="top">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="200" align="top">
             <p><b>Zhu Yuqing (PhD)</b><br>Hg cycling across the Toarcian OAE</p>
         </td>
         <td>
