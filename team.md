@@ -69,6 +69,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
+            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" height="200" align="top">
             <img src="/images/zangjingjie.jpeg" alt="Zang Jingie" align="top">
             <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
