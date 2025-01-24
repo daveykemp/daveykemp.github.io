@@ -73,10 +73,10 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Zang Jingjie</b><br>GDGT temperature changes through the LGM to present in central China</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+            <img src="/images/blank_pic.jpg" height="200" align="top">
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+            <img src="/images/blank_pic.jpg" height="200" align="top">
         </td>
     </tr>
 </table>
@@ -105,11 +105,11 @@ Former graduate students:
             <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" height="200" align="top">
             <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
         </td>
-              <td>
-            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+        <td>
+            <img src="/images/blank_pic.jpg" height="200" align="top">
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+            <img src="/images/blank_pic.jpg" height="200" align="top">
         </td>
     </tr>
 </table>
