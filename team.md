@@ -21,7 +21,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="250" align="top">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="400" align="top">
             <p><b>Zhu Yuqing (PhD)</b><br>Hg cycling across the Toarcian OAE</p>
         </td>
         <td>
@@ -58,7 +58,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" wheight="200" align="top">
-            <p><b>Jiang Shouyi (PhD)</b><br>Foraminifera diversity responses to the Toarcian OAE in Tibet</p>
+            <p><b>Jiang Shouyi (PhD)</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
         </td>
         <td>
             <img src="/images/sunxilei.png" alt="Sun Xilei" height="200" align="top">
