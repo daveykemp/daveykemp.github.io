@@ -74,11 +74,9 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
-            <p style="color:#FFFFFF;">Blank</p>
         </td>
         <td>
             <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
-            <p style="color:#FFFFFF;">Blank</p>
         </td>
     </tr>
 </table>
@@ -109,11 +107,9 @@ Former graduate students:
         </td>
               <td>
             <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
-            <p style="color:#FFFFFF;">Blank</p>
         </td>
         <td>
             <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
-            <p style="color:#FFFFFF;">Blank</p>
         </td>
     </tr>
 </table>
