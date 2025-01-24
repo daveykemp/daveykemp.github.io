@@ -91,7 +91,7 @@ Former graduate students:
         </td>
         <td>
             <img src="/images/jinsimin_pic.jpg" alt="Jin Simin" align="top">
-            <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now post-doc at CUG Wuhan</p>
+            <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now post-doc in CUG Wuhan</p>
         </td>
         <td>
             <img src="/images/huaxia_pic.jpg" alt="Hua Xia" align="top">
