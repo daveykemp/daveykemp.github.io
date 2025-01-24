@@ -31,13 +31,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
     </tr>
     <tr>
-        <td valign="center">
+        <td valign="left">
             <p><b>Zhu Yuqing (PhD)</b><br>Hg cycling across the Toarcian OAE</p>
         </td>  
-        <td valign="center">
+        <td valign="left">
             <p><b>Zhang Xiaoyue (PhD)</b><br>Timescale and orbital-scale paleoclimate evolution of the Danian</p>
         </td>
-        <td valign="center">
+        <td valign="left">
             <p><b>Liu Qing (MSc)</b><br>Redox and hydroclimate changes across the PETM in the North Sea</p>
         </td>
     </tr>
@@ -55,13 +55,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
     </tr>
     <tr>
-        <td valign="center">
+        <td valign="left">
             <p><b>Wan Xin (MSc)</b><br>Orbital-scale evolution of deoxygenation across the Toarcian OAE</p>
         </td>  
-        <td valign="center">
+        <td valign="left">
             <p><b>He Zixin (MSc)</b><br>Records of the Toarcian OAE from the southern hemisphere</p>
         </td>
-        <td valign="center">
+        <td valign="left">
             <p><b>Zhou Kui (MSc)</b><br>Orbital-scale hydroclimate changes across the Toarcian OAE</p>
         </td>
     </tr>
@@ -79,13 +79,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
     </tr>
     <tr>
-        <td valign="center">
+        <td valign="left">
             <p><b>Cao Mengmeng (PhD)</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>  
-        <td valign="center">
+        <td valign="left">
             <p><b>Jiang Shouyi (PhD)</b><br>Foraminiferal responses to the Toarcian OAE in Tibet</p>
         </td>
-        <td valign="center">
+        <td valign="left">
             <p><b>Sun Xilei (MSc)</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
         </td>
     </tr>
@@ -97,7 +97,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
     </tr>
     <tr> 
-        <td valign="top">
+        <td valign="left">
             <p><b>Zang Jingjie (PhD)</b><br>GDGT temperature changes through the LGM to present in central China</p>
         </td>
    </tr>
@@ -118,13 +118,13 @@ Former graduate students:
         </td>
     </tr>
     <tr>
-        <td valign="center">
+        <td valign="left">
             <p><b>Chen Wenhan (PhD)</b><br>2018-2022. Now at Chengdu University of Technology</p>
         </td>  
-        <td valign="center">
+        <td valign="left">
             <p><b>Jin Simin (PhD)</b><br>2018-2023. Now post-doc at CUG Wuhan</p>
         </td>
-        <td valign="center">
+        <td valign="left">
             <p><b>Hua Xia (PhD)</b><br>2019-2024. Now post-doc at Peking University</p>
         </td>
     </tr>
@@ -136,7 +136,7 @@ Former graduate students:
         </td>
     </tr>
     <tr> 
-        <td valign="top">
+        <td valign="left">
             <p><b>Zhang Ruiyao (PhD)</b><br>2019-2024. Now at Hubei Normal University</p>
         </td>
    </tr>
