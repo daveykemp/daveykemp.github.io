@@ -21,15 +21,15 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="200" align="top">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" width="200" height="250" align="top">
             <p><b>Zhu Yuqing</b><br>Constraining mechanisms of Hg cycling across the Toarcian OAE</p>
         </td>
         <td>
-            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" width="200" align="top">
+            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" width="200" height="250" align="top">
             <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution across the Danian</p>
         </td>
         <td>
-            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" width="200" align="top">
+            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" width="200" height="250" align="top">
             <p><b>Liu Qing</b><br>Redox and hydroclimate changes across the PETM in the North Sea</p>
         </td>
     </tr>
@@ -70,7 +70,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
     <tr>
         <td>
             <img src="/images/zangjingjie.png" alt="Zang Jingie" height="200" align="top">
-            <p><b>Zang Jingjie</b><br>GDGT temperature changes through the LGM to present in central China</p>
+            <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
         <td>
             <img src="/images/blank_pic.jpg" height="300" align="center">
