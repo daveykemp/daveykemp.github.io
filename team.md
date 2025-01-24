@@ -26,7 +26,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" height="200" align="top">
-            <p><b>Zhang Xiaoyue</b><br>Timescale and orbital-scale paleoclimate evolution of the Danian</p>
+            <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution across the Danian</p>
         </td>
         <td>
             <img src="/images/liuqing_pic.jpg" alt="Liu Qing" height="200" align="top">
@@ -71,6 +71,14 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         <td>
             <img src="/images/zangjingjie.png" alt="Zang Jingie" height="200" align="top">
             <p><b>Zang Jingjie</b><br>GDGT temperature changes through the LGM to present in central China</p>
+        </td>
+      <td>
+            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+            <p><b>/b><br></p>
+        </td>
+        <td>
+            <img src="/images/blank_pic.jpg" alt="Blank" height="200" align="top">
+            <p><b></b><br></p>
         </td>
     </tr>
 </table>
