@@ -41,11 +41,11 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Wan Xin</b><br>Orbital-scale pattern and evolution of deoxygenation across the Toarcian OAE</p>
         </td>
         <td>
-            <img src="/images/hezixin.png" alt="He Zixin" align="top">
+            <img src="/images/hezixin.jpeg" alt="He Zixin" align="top">
             <p><b>He Zixin</b><br>Records of the Toarcian OAE from the southern hemisphere</p>
         </td>
         <td>
-            <img src="/images/zhoukui.png" alt="Zhou Kui" align="top">
+            <img src="/images/zhoukui.jpeg" alt="Zhou Kui" align="top">
             <p><b>Zhou Kui</b><br>Orbital-scale hydroclimate changes across the Toarcian OAE</p>
         </td>
     </tr>
@@ -53,15 +53,15 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/caomengmeng.png" alt="Cao Mengmeng" height="200" align="top">
+            <img src="/images/caomengmeng.jpeg" alt="Cao Mengmeng" align="top">
             <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>
         <td>
-            <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" height="200" align="top">
+            <img src="/images/jiangshouyi.jpeg" alt="Jiang Shouyi" align="top">
             <p><b>Jiang Shouyi</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
         </td>
         <td>
-            <img src="/images/sunxilei.png" alt="Sun Xilei" height="200" align="top">
+            <img src="/images/sunxilei.jpeg" alt="Sun Xilei" align="top">
             <p><b>Sun Xilei</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
         </td>
     </tr>
@@ -69,7 +69,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zangjingjie.png" alt="Zang Jingie" height="200" align="top">
+            <img src="/images/zangjingjie.jpeg" alt="Zang Jingie" align="top">
             <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
         <td>
