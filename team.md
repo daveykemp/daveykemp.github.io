@@ -102,14 +102,14 @@ Former graduate students:
 <table>
     <tr>
         <td>
-            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" align="top">
+            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" height="200" align="top">
             <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="200" align="center">
+            <img src="/images/blank_pic.jpg" height="400" align="center">
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="200" align="center">
+            <img src="/images/blank_pic.jpg" height="400" align="center">
         </td>
     </tr>
 </table>
