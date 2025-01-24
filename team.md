@@ -14,22 +14,22 @@ permalink: /team
 </script>
 # Team
 * * *
-The research team currently comprises 5 PhD students and 5 MSc students. We are always keen to hear from motivated students who are interested in joining us. You can get in touch with us [here](mailto:davidkemp@cug.edu.cn)!
+The research team currently comprises 5 PhD students and 5 MSc students. We are always keen to hear from motivated students who are interested in joining us. You can get in touch [here](mailto:davidkemp@cug.edu.cn)!
 
 <img src="/images/teamfieldwork.png" alt="Team fieldwork">
 
 <table>
     <tr>
         <td>
-            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" height="200" align="top">
+            <img src="/images/zhuyuqing_pic.jpg" alt="Zhu Yuqing" align="top">
             <p><b>Zhu Yuqing</b><br>Constraining mechanisms of Hg cycling across the Toarcian OAE</p>
         </td>
         <td>
-            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" height="200" align="top">
+            <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" align="top">
             <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution across the Danian</p>
         </td>
         <td>
-            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" height="200" align="top">
+            <img src="/images/liuqing_pic.jpg" alt="Liu Qing" align="top">
             <p><b>Liu Qing</b><br>Redox and hydroclimate changes across the PETM in the North Sea</p>
         </td>
     </tr>
