@@ -45,13 +45,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/wanxin_pic.jpg" alt="Wan Xin" width="200">
+            <img src="/images/wanxin_pic.jpg" alt="Wan Xin" height="200">
         </td>
         <td>
-            <img src="/images/hezixin.png" alt="He Zixin" width="200">
+            <img src="/images/hezixin.png" alt="He Zixin" height="200">
         </td>
         <td>
-            <img src="/images/zhoukui.png" alt="Zhou Kui" width="200">
+            <img src="/images/zhoukui.png" alt="Zhou Kui" height="200">
         </td>
     </tr>
     <tr>
@@ -69,13 +69,13 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/caomengmeng.png" alt="Cao Mengmeng" width="200">
+            <img src="/images/caomengmeng.png" alt="Cao Mengmeng" height="200">
         </td>
         <td>
-            <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" width="200">
+            <img src="/images/jiangshouyi.png" alt="Jiang Shouyi" height="200">
         </td>
         <td>
-            <img src="/images/sunxilei.png" alt="Sun Xilei" width="200">
+            <img src="/images/sunxilei.png" alt="Sun Xilei" height="200">
         </td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/zangjingjie.png" alt="Zang Jingie" width="100">
+            <img src="/images/zangjingjie.png" alt="Zang Jingie" height="100">
         </td>
     </tr>
     <tr> 
@@ -108,13 +108,13 @@ Former graduate students:
 <table>
     <tr>
         <td>
-            <img src="/images/chenwenhan_pic.jpg" alt="Chen Wenhan" width="200">
+            <img src="/images/chenwenhan_pic.jpg" alt="Chen Wenhan" height="200">
         </td>
         <td>
-            <img src="/images/jinsimin_pic.jpg" alt="Jin Simin" width="200">
+            <img src="/images/jinsimin_pic.jpg" alt="Jin Simin" height="200">
         </td>
         <td>
-            <img src="/images/huaxia_pic.jpg" alt="Hua Xia" width="200">
+            <img src="/images/huaxia_pic.jpg" alt="Hua Xia" height="200">
         </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ Former graduate students:
 <table>
     <tr>
         <td>
-            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" width="100">
+            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" height="100">
         </td>
     </tr>
     <tr> 
