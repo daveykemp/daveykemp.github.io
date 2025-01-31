@@ -13,11 +13,21 @@ permalink: /team
 </script>
 
 <style>
-        td {
+        table {
             width: 100%;
-            height: 200px;
+            border-collapse: collapse;
         }
-    </style>
+        td {
+            border: 1px solid #ddd;
+            text-align: bottom;
+            padding: 8px;
+        }
+        img {
+            width: 100px;
+            height: 125px;
+            object-fit: cover; /* Ensures the image covers the area without distortion */
+        }
+</style>
 
 # Team
 * * *
