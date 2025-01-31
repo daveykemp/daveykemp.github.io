@@ -9,14 +9,10 @@ permalink: /team
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-1KXMJR6E0L');
 </script>
+
 <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
         td {
             width: 100%;
             height: 200px;
