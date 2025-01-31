@@ -54,11 +54,9 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Wan Xin</b><br>Orbital-scale pattern and evolution of deoxygenation across the Toarcian OAE</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="He Zixin" align="top">
             <p><b>He Zixin</b><br>Records of the Toarcian OAE from the southern hemisphere</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Zhou Kui" align="top">
             <p><b>Zhou Kui</b><br>Orbital-scale hydroclimate changes across the Toarcian OAE</p>
         </td>
     </tr>
@@ -66,15 +64,12 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Cao Mengmeng" align="top">
             <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Jiang Shouyi" align="top">
             <p><b>Jiang Shouyi</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Sun Xilei" align="top">
             <p><b>Sun Xilei</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
         </td>
     </tr>
@@ -82,14 +77,11 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Zang Jingie" height="200" align="top">
             <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="200" align="center">
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="200" align="center">
         </td>
     </tr>
 </table>
@@ -107,7 +99,6 @@ Former graduate students:
             <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now post-doc in CUG Wuhan</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" alt="Hua Xia" align="top">
             <p><b>Hua Xia (PhD)</b><br>Graduated 2024. Now post-doc at Peking University</p>
         </td>
     </tr>
@@ -115,14 +106,11 @@ Former graduate students:
 <table>
     <tr>
         <td>
-            <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" height="200" align="top">
             <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="400" align="center">
         </td>
         <td>
-            <img src="/images/blank_pic.jpg" height="400" align="center">
         </td>
     </tr>
 </table>
