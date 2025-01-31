@@ -18,10 +18,10 @@ permalink: /team
             border-collapse: collapse;
         }
         td {
-            text-align: bottom;
+            text-align: top;
             width: 100px;
             height: 125px;
-            object-fit: cover; /* Ensures the image covers the area without distortion */
+            object-fit: contain;
         }
 </style>
 
