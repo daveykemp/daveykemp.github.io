@@ -18,11 +18,7 @@ permalink: /team
             border-collapse: collapse;
         }
         td {
-            border: 1px solid #ddd;
             text-align: bottom;
-            padding: 8px;
-        }
-        img {
             width: 100px;
             height: 125px;
             object-fit: cover; /* Ensures the image covers the area without distortion */
