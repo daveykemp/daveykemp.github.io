@@ -15,7 +15,7 @@ permalink: /team
 <style>
         table {
             width: 100%;
-            border-collapse: collapse;
+            border-collapse: separate;
         }
         td {
             text-align: top;
