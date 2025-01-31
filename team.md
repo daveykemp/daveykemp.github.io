@@ -18,12 +18,12 @@ permalink: /team
             border-collapse: collapse;
         }
         td {
-            width: 100px;
+            width: 100%;
             height: 200px;
         }
         img {
-            width: 100px;
-            height: 125px;
+            width: 100%;
+            height: 125%;
             object-fit: cover;
         }
     </style>
