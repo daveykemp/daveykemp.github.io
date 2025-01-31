@@ -12,6 +12,22 @@ permalink: /team
 
   gtag('config', 'G-1KXMJR6E0L');
 </script>
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            width: 100px;
+            height: 200px;
+        }
+        img {
+            width: 100px;
+            height: 125px;
+            object-fit: cover;
+        }
+    </style>
+
 # Team
 * * *
 The research team currently comprises 5 PhD students and 5 MSc students. We are always keen to hear from motivated students who are interested in joining us. You can get in touch [here](mailto:davidkemp@cug.edu.cn)!
