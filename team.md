@@ -15,12 +15,12 @@ permalink: /team
 <style>
         table {
             width: 100%;
-            border-collapse: separate;
+            border-collapse: collapse;
         }
         td {
             text-align: top;
             width: 100px;
-            height: 125px;
+            height: 150px;
             object-fit: contain;
         }
 </style>
