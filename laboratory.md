@@ -14,7 +14,7 @@ permalink: /laboratory
 </script>
 # Laboratory
 * * *
-We run a state-of-the-art lab at China University of Geosciences (Wuhan) designed for rapid geochemical characterization of sedimentary rocks, cyclostratigraphic timescale construction, and high-resolution paleoclimate analysis. For enquiries about external collaboration and use of the facilities, [get in touch](mailto:davidkemp@cug.edu.cn).
+We run the 'Paleoenvironmental Change Laboratory' at China University of Geosciences (Wuhan). The lab is designed for rapid geochemical characterization of sedimentary rocks, cyclostratigraphic timescale construction, and high-resolution paleoclimate analysis. For enquiries about external collaboration and use of our facilities, [get in touch](mailto:davidkemp@cug.edu.cn).
 
 * Milestone DMA-80 Evo Hg (mercury) analyzer
 * Elementar UNICUBE elemental analyzer (TOC, S, N, H and O)
