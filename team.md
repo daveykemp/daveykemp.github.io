@@ -17,10 +17,6 @@ permalink: /team
             width: 100%;
             border-collapse: collapse;
        }
-       img {
-            width: 100px;
-            height: 150px;
-        }
        th, td {
            text-align: bottom;  
            vertical-align: top;
