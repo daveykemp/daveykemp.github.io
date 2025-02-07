@@ -52,7 +52,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
     <tr>
         <td>
             <img src="/images/wanxin_pic.jpg" alt="Wan Xin" align="top">
-            <p><b>Wan Xin</b><br>Orbital-scale pattern and evolution of deoxygenation across the Toarcian OAE</p>
+            <p><b>Wan Xin</b><br>Orbital-scale evolution of deoxygenation across the Toarcian OAE</p>
         </td>
         <td>
             <img src="/images/hezixin_pic.jpg" alt="Wan Xin" align="top">
@@ -72,7 +72,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/jiangshouyi_pic.jpg" alt="Jiang Shouyi" align="top">  
-            <p><b>Jiang Shouyi</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
+            <p><b>Jiang Shouyi</b><br>Foraminifera and redox responses to the Toarcian OAE in Tibet</p>
         </td>
         <td>
             <img src="/images/sunxilei_pic.jpg" alt="Sun Xilei" align="top">  
@@ -83,6 +83,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
+            <img src="/images/zangjingjie_pic.jpg" alt="Zang Jingjie" align="top">  
             <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
         <td>
@@ -92,7 +93,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
     </tr>
 </table>
 
-Former graduate students:
+## Former graduate students:
 
 <table>
     <tr>
