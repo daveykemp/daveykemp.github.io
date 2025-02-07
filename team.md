@@ -54,11 +54,11 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Wan Xin</b><br>Orbital-scale pattern and evolution of deoxygenation across the Toarcian OAE</p>
         </td>
         <td>
-            <img src="/images/hezixin_pic.jpeg" alt="Wan Xin" align="top">
+            <img src="/images/hezixin_pic.jpg" alt="Wan Xin" align="top">
             <p><b>He Zixin</b><br>Records of the Toarcian OAE from the southern hemisphere</p>
         </td>
         <td>
-            <img src="/images/zhoukui_pic.jpeg" alt="Wan Xin" align="top">
+            <img src="/images/zhoukui_pic.jpg" alt="Wan Xin" align="top">
             <p><b>Zhou Kui</b><br>Orbital-scale hydroclimate changes across the Toarcian OAE</p>
         </td>
     </tr>
