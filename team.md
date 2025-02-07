@@ -21,6 +21,8 @@ permalink: /team
            text-align: bottom;  
            vertical-align: top;
            object-fit: contain;
+           width: 100px;
+           height: 200px;
        }
 </style>
 
