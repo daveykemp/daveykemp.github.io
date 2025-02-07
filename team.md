@@ -13,15 +13,19 @@ permalink: /team
 </script>
 
 <style>
-        table {
+       table {
             width: 100%;
             border-collapse: collapse;
+       }
+       img {
+            width: 100px;
+            height: 200px;
         }
        th, td {
            text-align: bottom;  
            vertical-align: top;
            object-fit: contain;
-        }
+       }
 </style>
 
 # Team
