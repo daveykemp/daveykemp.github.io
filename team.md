@@ -20,7 +20,7 @@ permalink: /team
         td {
             text-align: top;
             width: 100px;
-            height: 150px;
+            height: 200px;
             object-fit: contain;
         }
 </style>
