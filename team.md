@@ -17,8 +17,9 @@ permalink: /team
             width: 100%;
             border-collapse: collapse;
         }
-        td {
-           vertical-align: bottom;
+       th, td {
+           text-align: right;  
+           vertical-align: top;
            object-fit: contain;
         }
 </style>
