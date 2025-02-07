@@ -18,7 +18,7 @@ permalink: /team
             border-collapse: collapse;
         }
        th, td {
-           text-align: right;  
+           text-align: bottom;  
            vertical-align: top;
            object-fit: contain;
         }
