@@ -67,6 +67,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>
         <td>
+            <img src="/images/jiangshouyi_pic.jpg" alt="Jiang Shouyi" align="top">  
             <p><b>Jiang Shouyi</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
         </td>
         <td>
