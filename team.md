@@ -40,7 +40,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
         </td>
         <td>
             <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" align="top">
-            <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution across the Danian</p>
+            <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution in the Paleocene</p>
         </td>
         <td>
             <img src="/images/liuqing_pic.jpg" alt="Liu Qing" align="top">
