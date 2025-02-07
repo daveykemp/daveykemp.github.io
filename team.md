@@ -67,6 +67,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
+            <img src="/images/caomengmeng_pic.jpg" alt="Cao Mengmeng" align="top">  
             <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>
         <td>
@@ -74,6 +75,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Jiang Shouyi</b><br>Foraminifera responses and deoxygenation across the Toarcian OAE in Tibet</p>
         </td>
         <td>
+            <img src="/images/sunxilei_pic.jpg" alt="Sun Xilei" align="top">  
             <p><b>Sun Xilei</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
         </td>
     </tr>
@@ -110,7 +112,8 @@ Former graduate students:
 <table>
     <tr>
         <td>
-            <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
+          <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" align="top">  
+          <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
         </td>
         <td>
         </td>
