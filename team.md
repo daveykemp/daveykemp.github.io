@@ -19,7 +19,7 @@ permalink: /team
        }
        img {
             width: 100px;
-            height: 200px;
+            height: 150px;
         }
        th, td {
            text-align: bottom;  
