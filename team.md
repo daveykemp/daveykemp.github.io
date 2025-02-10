@@ -106,6 +106,7 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now post-doc in CUG Wuhan</p>
         </td>
         <td>
+            <img src="/images/huaxia_pic.jpg" alt="Hua Xia" align="top">
             <p><b>Hua Xia (PhD)</b><br>Graduated 2024. Now post-doc at Peking University</p>
         </td>
     </tr>
