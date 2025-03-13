@@ -30,7 +30,7 @@ permalink: /
 <table>
       <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>10-11-2024</i></b><br>New paper on terrestrial orbital forcing in Tibet published in <i><a href="https://www.sciencedirect.com/science/article/pii/S0012821X25001050">Earth and Planetary Science Letters</a></i></p>
+            <p><b><i>13-03-2025</i></b><br>New paper on terrestrial orbital forcing in Tibet published in <i><a href="https://www.sciencedirect.com/science/article/pii/S0012821X25001050">Earth and Planetary Science Letters</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/zhangepsl_news.png" alt="Zhang Earth and Planetary Science Letters paper">
