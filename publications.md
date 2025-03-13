@@ -18,7 +18,19 @@ Over 100 papers have been published. A full listing of publications is at [Googl
   
 **2025**
 
-Baoke, Z., Li, G., **Kemp, D.B.**, **Jin, S.**, Jiang, G., Wang, T., Li, X., Li, X., Li, Y., Zhang, W., Ding, J., Yao, Y., Wang, J., Zhang, W., Li, J. & Xu, X. 2025. Benthic foraminiferal biostratigraphy, microfacies analysis, depositional environment during the PETM in the Tingri-Gamba Basin, Southern Tibet, Palaeogeography, Palaeoclimatology, Palaeoecology, 661, 112684, doi:10.1016/j.palaeo.2024.112684
+**Zhang, X.**, **Kemp, D.B.**, **Zhang, R.**, Spicer. R.A., **Jin, S.**, Zhang, R., Zhang, Z. & Huang, C. 2025. Astronomical forcing of East Asian hydroclimate during the latest Cretaceous to early Paleocene, Earth and Planetary Science Letters, 658, 119306, doi:10.1016/j.epsl.2025.119306
+
+Li, B., Jin, X., **Kemp, D.B.**, Ma, C., Zou, H. & Shi, Z. 2025. Lacustrine nitrogen cycling linked to redoxcline fluctuations during the Toarcian oceanic anoxic event, Bulletin of the Geological Society of America, doi:10.1130/B37248.1
+
+Gao, Z., Wang, Z., Wang, Y., Ze, Z., **Cao, M.** & **Kemp, D.B.** 2025. Regional differences in millennial-scale climate variability in NE Tibet loess deposits spanning 34 to 8 ka, Bulletin of the Geological Society of America, doi:10.1130/B37931.1
+
+Zhang, Z., Wang, Z., **Kemp, D.B.** & Ogg, J.G. 2025. Decoupling of monsoon precipitation and regional temperature in North China across the Pliocene-Pleistocene transition, Bulletin of the Geological Society of America, doi:10.1130/B37841.1
+
+Qiu, Z., Kong, W., Zhang, J., **Kemp, D.B.**, Zhang, Q., Liu, W., Grasby, S.E., Zou, C. 2025. Mercury evidences link intensive volcanism to the Late Ordovician mass extinction and changes in the atmosphere-land-ocean system, The Innovation Geoscience, doi:10.59717/j.xinn-geo.2024.100124
+
+Han, K., Zhiqin, L., Chen, X., Liu, X., Guo, H., Yao, H., Zhang, Y., **Kemp, D.B.** & Wang, C. 2025. High-resolution organic carbon isotope chemostratigraphy of the lower Aptian and the expression of Oceanic Anoxic Event 1a in the Tibetan Himalaya, Global and Planetary Change, 248, 104759, doi:10.1016/j.gloplacha.2025.104759
+
+Bao, Z., Li, G., **Kemp, D.B.**, **Jin, S.**, Jiang, G., Wang, T., Li, X., Li, X., Li, Y., Zhang, W., Ding, J., Yao, Y., Wang, J., Zhang, W., Li, J. & Xu, X. 2025. Benthic foraminiferal biostratigraphy, microfacies analysis, depositional environment during the PETM in the Tingri-Gamba Basin, Southern Tibet, Palaeogeography, Palaeoclimatology, Palaeoecology, 661, 112684, doi:10.1016/j.palaeo.2024.112684
 
 Li, Y., Tan, L., **Jin, S.**, Xu, H., Chen, L., **Kemp, D.B.**, Sinha, A., Ma, L., Huang, C., Edwards, L.R. & Cheng, H. 2025. Mercury deposition in central China from the Last Glacial Maximum to the early Holocene recorded in an accurately-dated stalagmite, Science Bulletin, 90-95, doi:10.1016/j.scib.2024.07.045
 
