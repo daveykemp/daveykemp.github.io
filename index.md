@@ -28,6 +28,14 @@ permalink: /
 ## Latest news
 * * *
 <table>
+      <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>10-11-2024</i></b><br>New paper on terrestrial orbital forcing in Tibet published in <i><a href="https://www.sciencedirect.com/science/article/pii/S0012821X25001050">Earth and Planetary Science Letters</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/zhangepsl_news.png" alt="Zhang Earth and Planetary Science Letters paper">
+        </td>
+    </tr>
     <tr>
         <td valign="top" style="width:70%">
             <p><b><i>10-11-2024</i></b><br>New paper on Toarcian OAE upper ocean deoxygenation published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818124002789">Global and Planetary Change</a></i></p>
