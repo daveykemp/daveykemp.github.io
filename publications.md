@@ -18,6 +18,16 @@ Over 100 papers have been published. A full listing of publications is at [Googl
   
 **2025**
 
+Zhang, Y., Jin, X., Baranyi, V., **Kemp, D.B.**, Qiao, P., Lang, X., Li, B., Chen, Y. & Shi, Z. 2025. Continental red beds in the Ordos Basin (North China Block): origins and paleoclimatic implications in the aftermath of the Jenkyns Event (Early Jurassic), Palaeogeography, Palaeoclimatology, Palaeoecology, 675, 113060, doi:10.1016/j.palaeo.2025.113060
+
+Liang, Y., Liu, Z., **Kemp, D.B.**, Wang, H., Liu, W., Liu, H., Quan, C., Liu, X., Liu, Z. & Zhou, M. 2025. Terrestrial temperature history reveals late Miocene rapid uplift of the Qaidam Basin, northern Tibetan Plateau, Science Advances, in press
+
+Jin, X., Baranyi, V., **Kemp, D.B.**, Shi, Z., Li, B., Zhang, Y. & Franceschi, M. 2025. Early Jurassic carbon cycle perturbations recorded in terrestrial sediments of the Sichuan Basin, China, Geoscience Frontiers, 16, 102073, doi:10.1016/j.gsf.2025.102073
+
+Haserbek, T., Tian, L., Shu, W., Chu, D., Huang, J., Liu, Y., **Hua, X.**, **Kemp, D.B.**, Roghi, G., Alverà, G., Gianolla, P., Song, H., Song, H., Cao, Y., Shi, Y. & Dal Corso, J. 2025. High-latitude terrestrial carbon-mercury perturbations across the Late Triassic Carnian Pluvial Episode in the Junggar Basin of northwestern China, Scientific Reports, 15, 16222, doi:10.1038/s41598-025-98455-5
+
+Shi, S., Chen, X., Guo, H., Yao, H., Han, K., **Kemp, D.B.**, Shi, S., Han, Z. & Wang, C. 2025. Evidence for elevated wildfire activity during Cretaceous OAE 2 from eastern Tethys, Palaeogeography, Palaeoclimatology, Palaeoecology, 670, 112936, doi:10.1016/j.palaeo.2025.112936
+
 **Zhang, X.**, **Kemp, D.B.**, **Zhang, R.**, Spicer. R.A., **Jin, S.**, Zhang, R., Zhang, Z. & Huang, C. 2025. Astronomical forcing of East Asian hydroclimate during the latest Cretaceous to early Paleocene, Earth and Planetary Science Letters, 658, 119306, doi:10.1016/j.epsl.2025.119306
 
 Li, B., Jin, X., **Kemp, D.B.**, Ma, C., Zou, H. & Shi, Z. 2025. Lacustrine nitrogen cycling linked to redoxcline fluctuations during the Toarcian oceanic anoxic event, Bulletin of the Geological Society of America, doi:10.1130/B37248.1
