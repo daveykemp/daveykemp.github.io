@@ -30,10 +30,10 @@ permalink: /
 <table>
    <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>14-07-2025</i></b><br>New paper on timing of Tibetan uplift published <i><a href="https://https://www.science.org/doi/10.1126/sciadv.adu5030">Science Advances</a></i></p>
+            <p><b><i>14-07-2025</i></b><br>New paper on timing of Tibetan uplift published <i><a href="https://www.science.org/doi/10.1126/sciadv.adu5030">Science Advances</a></i></p>
         </td>
         <td valign="middle">
-            <img src="/images/liangetal_news.png" alt="Liang Science Advances paper">
+            <img src="/images/liangetal_news.jpg" alt="Liang Science Advances paper">
         </td>
     </tr>
     <tr>
