@@ -20,7 +20,7 @@ Over 100 papers have been published. A full listing of publications is at [Googl
 
 Zhang, Y., Jin, X., Baranyi, V., **Kemp, D.B.**, Qiao, P., Lang, X., Li, B., Chen, Y. & Shi, Z. 2025. Continental red beds in the Ordos Basin (North China Block): origins and paleoclimatic implications in the aftermath of the Jenkyns Event (Early Jurassic), Palaeogeography, Palaeoclimatology, Palaeoecology, 675, 113060, doi:10.1016/j.palaeo.2025.113060
 
-Liang, Y., Liu, Z., **Kemp, D.B.**, Wang, H., Liu, W., Liu, H., Quan, C., Liu, X., Liu, Z. & Zhou, M. 2025. Terrestrial temperature history reveals late Miocene rapid uplift of the Qaidam Basin, northern Tibetan Plateau, Science Advances, in press
+Liang, Y., Liu, Z., **Kemp, D.B.**, Wang, H., Liu, W., Liu, H., Quan, C., Liu, X., Liu, Z. & Zhou, M. 2025. Terrestrial temperature history reveals late Miocene rapid uplift of the Qaidam Basin, northern Tibetan Plateau, Science Advances, 11, eadu5030, doi:10.1126/sciadv.adu503
 
 Jin, X., Baranyi, V., **Kemp, D.B.**, Shi, Z., Li, B., Zhang, Y. & Franceschi, M. 2025. Early Jurassic carbon cycle perturbations recorded in terrestrial sediments of the Sichuan Basin, China, Geoscience Frontiers, 16, 102073, doi:10.1016/j.gsf.2025.102073
 
