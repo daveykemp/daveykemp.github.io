@@ -28,6 +28,15 @@ permalink: /
 ## Latest news
 * * *
 <table>
+   <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>13-03-2025</i></b><br>New paper on timing of Tibetan uplift published <i><a href="https://https://www.science.org/doi/10.1126/sciadv.adu5030">Science Advances</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/liangetal_news.png" alt="Liang Science Advances paper">
+        </td>
+    </tr>
+    <tr>
       <tr>
         <td valign="top" style="width:70%">
             <p><b><i>13-03-2025</i></b><br>New paper on terrestrial orbital forcing in Tibet published in <i><a href="https://www.sciencedirect.com/science/article/pii/S0012821X25001050">Earth and Planetary Science Letters</a></i></p>
