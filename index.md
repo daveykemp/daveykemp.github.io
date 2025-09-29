@@ -28,9 +28,17 @@ permalink: /
 ## Latest news
 * * *
 <table>
-     <tr>
+       <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>18-09-2025</i></b><br>New paper on Norian-Rhaetian carbon cycle perturbations piblished in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818125003935">Global and Planetary Changes</a></i></p>
+            <p><b><i>24-09-2025</i></b><br>New paper on effects of T-OAE climate change on terrestrial organic carbon burial published in <i><a href="https://www.nature.com/articles/s43247-025-02711-5">Communications: Earth and Environment</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/qiucee_news.png" alt="Qiu et al. CEE paper">
+        </td>
+    </tr>   
+  <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>18-09-2025</i></b><br>New paper on Norian-Rhaetian carbon cycle perturbations published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818125003935">Global and Planetary Changes</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/huanorian_news.png" alt="Hua Xia GPC paper">
