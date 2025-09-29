@@ -18,6 +18,14 @@ Over 100 papers have been published. A full listing of publications is at [Googl
   
 **2025**
 
+Li, Y., Huang, C., Lan, J., **Kemp, D.B.**, Ogg, J.G., Sinha, A., Chen, L., Wang, X., Tang, H., Lin, X., Abdel-Raheem, K.H.M., Zhang, R., Cheng, H., Edwards, L. & Tan, L. 2025. Indian summer monsoon variability across the last 9000 years: New evidence from stalagmites of southwestern China, Global and Planetary Change, 255, 105092, doi:10.1016/j.gloplacha.2025.105092
+
+**Hua, X.**, **Kemp, D.B.**, Cho, T., Ikeda, M. & Huang, C. 2025. The enigmatic Norian-Rhaetian boundary: varying carbon cycle disturbances in continental and deep marine records, Global and Planetary Change, 255, 105084, doi:10.1016/j.gloplacha.2025.105084
+
+Zhang, Z., Wang, Z., **Kemp, D.B.**, Sui, Y., Li, Y., Zhao, J., **Zhang, R.**, Xiao, A., **Cao, M.**, Zhao, M., Bai, X. & Huang, C. 2025. Late Pliocene millennial-scale climate variability response of the South Asian summer monsoon to low-latitude insolation and Antarctic ice sheet forcing, Global and Planetary Change, 254, 105048, doi:10.1016/j.gloplacha.2025.105048
+
+Qiu, R., Bao, X., **Kemp, D.B.**, Guo, J., Yuan, S., Zhang, W., Wang, H., Liu. M., Zhang, R., Wan, B., Zhao, L., Hu, Y. & Jin, Z. 2025. Elevated atmospheric CO2 drove spatially variable terrestrial organic carbon burial during the early Toarcian hyperthermal, Communications Earth and Environment, 8(1), 700, doi:10.1038/s43247-025-02711-5
+
 Zhang, Y., Jin, X., Baranyi, V., **Kemp, D.B.**, Qiao, P., Lang, X., Li, B., Chen, Y. & Shi, Z. 2025. Continental red beds in the Ordos Basin (North China Block): origins and paleoclimatic implications in the aftermath of the Jenkyns Event (Early Jurassic), Palaeogeography, Palaeoclimatology, Palaeoecology, 675, 113060, doi:10.1016/j.palaeo.2025.113060
 
 Liang, Y., Liu, Z., **Kemp, D.B.**, Wang, H., Liu, W., Liu, H., Quan, C., Liu, X., Liu, Z. & Zhou, M. 2025. Terrestrial temperature history reveals late Miocene rapid uplift of the Qaidam Basin, northern Tibetan Plateau, Science Advances, 11, eadu5030, doi:10.1126/sciadv.adu503
