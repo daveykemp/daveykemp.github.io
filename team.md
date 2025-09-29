@@ -87,8 +87,12 @@ The research team currently comprises 5 PhD students and 5 MSc students. We are 
             <p><b>Zang Jingjie</b><br>GDGT temperatures from LGM to present in central China</p>
         </td>
         <td>
+            <img src="/images/zhumiaomiao_pic.jpg" alt="Zhu Miaomiao" align="top">  
+            <p><b>Zhu Miaomiao</b><br>Solving paleoclimate and stratigraphic problems with machine learning</p>
         </td>
         <td>
+            <img src="/images/xuguo_pic.jpg" alt="Xu Guo" align="top">  
+            <p><b>Xu Guo</b><br>Organic geochemistry across major hyperthermal events</p>
         </td>
     </tr>
 </table>
