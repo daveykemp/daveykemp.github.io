@@ -28,7 +28,7 @@ permalink: /team
 
 # Team
 * * *
-The research team currently comprises 5 PhD students and 5 MSc students. We are always keen to hear from motivated students who are interested in joining us. You can get in touch [here](mailto:davidkemp@cug.edu.cn)!
+The research team currently comprises 7 PhD students and 5 MSc students. We are always keen to hear from motivated students who are interested in joining us. You can get in touch [here](mailto:davidkemp@cug.edu.cn)!
 
 <img src="/images/teamfieldwork.png" alt="Team fieldwork">
 
