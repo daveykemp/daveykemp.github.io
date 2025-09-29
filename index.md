@@ -28,9 +28,17 @@ permalink: /
 ## Latest news
 * * *
 <table>
+     <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>14-07-2025</i></b><br>New paper on Norian-Rhaetian carbon cycle perturbations piblished in<i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818125003935">Global and Planetary Changes</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/huanorian_news.png" alt="Hua Xia GPC paper">
+        </td>
+    </tr>
    <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>14-07-2025</i></b><br>New paper on timing of Tibetan uplift published <i><a href="https://www.science.org/doi/10.1126/sciadv.adu5030">Science Advances</a></i></p>
+            <p><b><i>14-07-2025</i></b><br>New paper on timing of Tibetan uplift published in<i><a href="https://www.science.org/doi/10.1126/sciadv.adu5030">Science Advances</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/liang_news.jpg" alt="Liang Science Advances paper">
