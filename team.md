@@ -97,7 +97,7 @@ The research team currently comprises 7 PhD students and 5 MSc students. We are 
     </tr>
 </table>
 
-## Former graduate students:
+## Former graduate students
 
 <table>
     <tr>
