@@ -158,7 +158,7 @@ Jolley, D.W., Viera, M., **Jin, S.** & **Kemp, D.B.** 2023. Palynofloras, paleoe
 
 Zhang, Z., Licht, A., De Vleeschouwer, D., Wang, Z., Li, Y., **Kemp, D.B.**, Tan, L., Zhang, R., Qiang, X. & Huang, C. 2022. East Asian monsoonal climate sensitivity changed in the late Pliocene in response to Northern Hemisphere glaciations, Geophysical Research Letters, 49, e2022GL101280, doi:10.1029/2022GL101280
 
-**Kemp, D.B.** & Sadler, P.M. 2022. Incompleteness: dealing with an imperfect stratigraphical record. In: Coe, A.L. (ed.) Deciphering Earth history: The practice of stratigraphy, Geological Society, London, Geoscience in Practice 1, 213-225, doi:10.1144/GIP1-2022-37
+**Kemp, D.B.** & Sadler, P.M. 2022. Incompleteness: dealing with an imperfect stratigraphical record. In: Coe, A.L. (ed.) Deciphering Earth history: The practice of stratigraphy, Geological Society, London, Geoscience in Practice 1, p. 213-225, doi:10.1144/GIP1-2022-37
 
 Jin, X., Zhang, F., Baranyi, V., **Kemp, D.B.**, Feng, X., Grasby, S.E., Sun, G., Shi, Z., **Chen, W.** & Dal Corso, J. 2022. Early Jurassic massive release of terrestrial mercury linked to floral crisis, Earth and Planetary Science Letters, 598, 117842, doi:10.1016/j.epsl.2022.117842
 
@@ -166,29 +166,29 @@ Jin, X., Zhang, F., Baranyi, V., **Kemp, D.B.**, Feng, X., Grasby, S.E., Sun, G.
 
 **Kemp, D.B.**, Suan, G., Fantasia, A., **Jin, S.** & **Chen, W.** 2022. Global organic carbon burial during the early Toarcian oceanic anoxic event: Patterns and controls, Earth-Science Reviews, 231, 104086, doi:10.1016/j.earscirev.2022.104086
 
-Wang, Z., Mao, Y., Geng, J., Huang, C., Ogg, J., **Kemp, D.B.**, Zhang, Z., Pang, Z. & Zhang, R. 2022. Pliocene-Pleistocene evolution of the lower Yellow River in eastern North China: Constraints on the age of the Sanmen Gorge connection, Global and Planetary Change, 213, doi:10.1016/j.gloplacha.2022.103835
+Wang, Z., Mao, Y., Geng, J., Huang, C., Ogg, J., **Kemp, D.B.**, Zhang, Z., Pang, Z. & Zhang, R. 2022. Pliocene-Pleistocene evolution of the lower Yellow River in eastern North China: Constraints on the age of the Sanmen Gorge connection, Global and Planetary Change, 213, 103835, doi:10.1016/j.gloplacha.2022.103835
 
-**Kemp, D.B.**, **Chen, W.**, Cho, T., Algeo, T.J., Shen, J. & Ikeda, M. 2022. Deep ocean anoxia across the Pliensbachian-Toarcian boundary and the Toarcian Oceanic Anoxic Event in the Panthalassa Ocean, Global and Planetary Change, 212, doi:10.1016/j.gloplacha.2022.103782
+**Kemp, D.B.**, **Chen, W.**, Cho, T., Algeo, T.J., Shen, J. & Ikeda, M. 2022. Deep ocean anoxia across the Pliensbachian-Toarcian boundary and the Toarcian Oceanic Anoxic Event in the Panthalassa Ocean, Global and Planetary Change, 212, 103782, doi:10.1016/j.gloplacha.2022.103782
 
-Jin, X., Ogg, J.G, Song, L., Shi, Z., **Kemp, D.B.**, **Hua, X.**, Onoue, T. & Rigo, M. 2022. Terrestrial record of carbon-isotope shifts across the Norian/Rhaetian boundary: A high-resolution study from northwestern Sichuan Basin, South China, Global and Planetary Change, 210, doi:10.1016/j.gloplacha.2022.103754
+Jin, X., Ogg, J.G, Song, L., Shi, Z., **Kemp, D.B.**, **Hua, X.**, Onoue, T. & Rigo, M. 2022. Terrestrial record of carbon-isotope shifts across the Norian/Rhaetian boundary: A high-resolution study from northwestern Sichuan Basin, South China, Global and Planetary Change, 210, 103754, doi:10.1016/j.gloplacha.2022.103754
 
 Yang, R., Li, T., Stubbs, D., Chen, T., Liu, S., **Kemp, D.B.**, Li, W., Yang, S., Chen, J., Elliott, T., Dellwig, O., Chen, J. & Li, G. 2022. Stable tungsten isotope systematics on the Earth’s surface, Geochimica et Cosmochimica Acta, 322, p. 227-243, doi:10.1016/j.gca.2022.01.006
 
-**Jin, S.**, **Kemp, D.B.**, Jolley, D.W., Viera, M., Zachos, J.C., Huang, C., Li, M. & **Chen, W.** 2022. Large-scale, astronomically-controlled sediment input to the North Sea Basin during the Paleocene Eocene Thermal Maximum, Earth and Planetary Science Letters, 579, doi:10.1016/j.epsl.2021.117340
+**Jin, S.**, **Kemp, D.B.**, Jolley, D.W., Viera, M., Zachos, J.C., Huang, C., Li, M. & **Chen, W.** 2022. Large-scale, astronomically-controlled sediment input to the North Sea Basin during the Paleocene Eocene Thermal Maximum, Earth and Planetary Science Letters, 579, 117340, doi:10.1016/j.epsl.2021.117340
 
-Wang, M., Li, M., **Kemp, D.B.**, Boulila, S. & Ogg, J.G. 2022. Sedimentary noise modeling of lake-level change in the Late Triassic Newark Basin of North America, Global and Planetary Change, 208, doi:10.1016/j.gloplacha.2021.103706
+Wang, M., Li, M., **Kemp, D.B.**, Boulila, S. & Ogg, J.G. 2022. Sedimentary noise modeling of lake-level change in the Late Triassic Newark Basin of North America, Global and Planetary Change, 208, 103706, doi:10.1016/j.gloplacha.2021.103706
 
 **2021**
 
-**Chen, W.**, **Kemp, D.B.**, He, T., Huang, C., **Jin, S.**, Xiong, Y. & Newton, R.J. 2021. First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes, Global and Planetary Change, 207, doi:10.1016/j.gloplacha.2021.103685
+**Chen, W.**, **Kemp, D.B.**, He, T., Huang, C., **Jin, S.**, Xiong, Y. & Newton, R.J. 2021. First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes, Global and Planetary Change, 207, 103685, doi:10.1016/j.gloplacha.2021.103685
 
-**Cao, M.**, Wang, Z., Sui, Y., Li, Y., Zhang, Z., Xiao, A., Zhang, R. & **Kemp, D.B.** 2021. Mineral dust coupled with climate‐carbon cycle on orbital timescales over the past 4 Ma. Geophysical Research Letters, 48, doi:10.1029/2021GL095327
+**Cao, M.**, Wang, Z., Sui, Y., Li, Y., Zhang, Z., Xiao, A., Zhang, R. & **Kemp, D.B.** 2021. Mineral dust coupled with climate‐carbon cycle on orbital timescales over the past 4 Ma. Geophysical Research Letters, 48, e2021GL095327, doi:10.1029/2021GL095327
 
 Song, H., **Kemp, D.B.**, Li, T., Chu, D., Song, H. & Dai, X. 2021. Thresholds of temperature change for mass extinctions, Nature Communications, 12, doi:10.1038/s41467-021-25019-2
 
-Liu, D, Huang, C., Ogg, J.G., **Kemp, D.B.**, Li, M., Yu, M. & Foster, W.J. 2021. Astronomically forced changes in chemical weathering and redox during the Anisian (Middle Triassic): Implications for marine ecosystem recovery following the end-Permian mass extinction, Palaeogeography, Palaeoclimatology, Palaeoecology, 569, doi:10.1016/j.palaeo.2021.110355
+Liu, D, Huang, C., Ogg, J.G., **Kemp, D.B.**, Li, M., Yu, M. & Foster, W.J. 2021. Astronomically forced changes in chemical weathering and redox during the Anisian (Middle Triassic): Implications for marine ecosystem recovery following the end-Permian mass extinction, Palaeogeography, Palaeoclimatology, Palaeoecology, 569, 110355, doi:10.1016/j.palaeo.2021.110355
 
-Liu, D, Huang, C., **Kemp, D.B.**, Li, M., Yu, M. & Foster, W.J. 2021. Paleoclimate and sea level response to orbital forcing in the Middle Triassic of the eastern Tethys, Global and Planetary Change, 199, doi:10.1016/j.gloplacha.2021.103454
+Liu, D, Huang, C., **Kemp, D.B.**, Li, M., Yu, M. & Foster, W.J. 2021. Paleoclimate and sea level response to orbital forcing in the Middle Triassic of the eastern Tethys, Global and Planetary Change, 199, 103454, doi:10.1016/j.gloplacha.2021.103454
 
 Wang, Z., Huang, C., **Kemp, D.B.**, Zhang, Z. & Sui, Y. 2021. Distinct responses of late Miocene eolian and lacustrine systems to astronomical forcing in NE Tibet, Bulletin of the Geological Society of America, doi:10.1130/B35776.1
 
@@ -196,25 +196,25 @@ Wang, Z., Huang, C., **Kemp, D.B.**, Zhang, Z. & Sui, Y. 2021. Distinct response
 
 **Kemp, D.B.**, Sadler, P.M. & Vanacker, V. 2020. The human impact on North American erosion, sediment transfer and storage in a geologic context, Nature Communications, 11, 6012, doi:10.1038/s41467-020-19744-3
 
-Huang, C., Ogg, J.G. & **Kemp, D.B.** 2020. Cyclostratigraphy and astrochronology: Case studies from China, Palaeogeography, Palaeoclimatology, Palaeoecology, 560, doi:10.1016/j.palaeo.2020.110017
+Huang, C., Ogg, J.G. & **Kemp, D.B.** 2020. Cyclostratigraphy and astrochronology: Case studies from China, Palaeogeography, Palaeoclimatology, Palaeoecology, 560, 110017, doi:10.1016/j.palaeo.2020.110017
 
-**Jiang, S.**, Song, H., **Kemp, D.B.**, Dai, X., & Liu, X. 2020. Two pulses of extinction of larger benthic foraminifera during the Pliensbachian-Toarcian and early Toarcian environmental crises, Palaeogeography, Palaeoclimatology, Palaeoecology, 560, doi:10.1016/j.palaeo.2020.109998
+**Jiang, S.**, Song, H., **Kemp, D.B.**, Dai, X., & Liu, X. 2020. Two pulses of extinction of larger benthic foraminifera during the Pliensbachian-Toarcian and early Toarcian environmental crises, Palaeogeography, Palaeoclimatology, Palaeoecology, 560, 109998, doi:10.1016/j.palaeo.2020.109998
 
-Jin, X., Shi, Z., Baranyi, V., **Kemp, D.B.**, Han, Z., Luo, G., Hu, J., He, F., Chen, L. & Preto, N. 2020. The Jenkyns Event (early Toarcian OAE) in the Ordos Basin, North China, Global and Planetary Change, 193, doi:10.1016/j.gloplacha.2020.103273
+Jin, X., Shi, Z., Baranyi, V., **Kemp, D.B.**, Han, Z., Luo, G., Hu, J., He, F., Chen, L. & Preto, N. 2020. The Jenkyns Event (early Toarcian OAE) in the Ordos Basin, North China, Global and Planetary Change, 193, 103273, doi:10.1016/j.gloplacha.2020.103273
 
 **Kemp, D.B.**, Selby, D. & Izumi, K. 2020. Direct coupling between carbon release and weathering during the Toarcian oceanic anoxic event, Geology, 48, p. 976–980, doi:10.1130/G47509.1
 
 Oppo, D., De Siena, L. & **Kemp, D.B.** 2020. A record of seafloor methane seepage across the last 150 million years, Scientific Reports, 10, doi:10.1038/s41598-020-59431-3
 
-Wang, M., Chen, H., Huang, C., **Kemp, D.B.**, Xu, Y. & Hongan, Z., Li, M. 2020. Astronomical forcing and sedimentary noise modeling of lake-level changes in the Paleogene Dongpu Depression of North China, Earth and Planetary Science Letters, 535, doi:10.1016/j.epsl.2020.116116
+Wang, M., Chen, H., Huang, C., **Kemp, D.B.**, Xu, T., Hongan, Z. & Li, M. 2020. Astronomical forcing and sedimentary noise modeling of lake-level changes in the Paleogene Dongpu Depression of North China, Earth and Planetary Science Letters, 535, 116116, doi:10.1016/j.epsl.2020.116116
 
-Xu, Y., Jiang, R., Deng, Y., **Kemp, D.B.**, Yang, Z., Huang, C. & Zhu, Z. 2020. A Robust geochronology of the Yangtze River Delta based on magnetostratigraphy and cyclostratigraphy of Sediment Core ZKA2, Palaeogeography, Palaeoclimatology, Palaeoecology, 541, doi:10.1016/j.palaeo.2019.109532
+Xu, Y., Jiang, R., Deng, Y., **Kemp, D.B.**, Yang, Z., Huang, C. & Zhu, Z. 2020. A Robust geochronology of the Yangtze River Delta based on magnetostratigraphy and cyclostratigraphy of Sediment Core ZKA2, Palaeogeography, Palaeoclimatology, Palaeoecology, 541, 109532, doi:10.1016/j.palaeo.2019.109532
 
 Izumi, K., Suzuki, K., **Kemp, D.B.** & Iizuka, T. 2020. Palaeogeographical and tectonic setting of the Lower Jurassic (Pliensbachian‐Toarcian) Nishinakayama Formation, Toyora Group, SW Japan, Geological Journal, 55, p. 862-874, doi:10.1002/gj.3466
 
 **2019**
 
-Sinnesael, M., De Vleeschouwer, D., Zeeden, C., Batenburg, S.J., Da Silva, A-C., de Winter, N.J., Dinarès-Turell, J., Drury, A.J., Gambacorta, G., Hilgen, F.J., Hinnov, L., Hudson, A., **Kemp, D.B.**, Lantink, M., Laurin, J., Li, M., Liebrand, D., Ma, C., Meyers, S.R., Monkenbusch, J., Montanari, A., Nohl, T., Pälike, H., Pass, D., Ruhl, M., Thibault, N., Vahlenkamp, M., Valero, L., Wouters, S., Wu, H. & Claeys, P. 2019. The cyclostratigraphy intercomparison project (CIP): consistency, merits and pitfalls of cyclostratigraphy, Earth Science Reviews, 199, doi:10.1016/j.earscirev.2019.102965
+Sinnesael, M., De Vleeschouwer, D., Zeeden, C., Batenburg, S.J., Da Silva, A-C., de Winter, N.J., Dinarès-Turell, J., Drury, A.J., Gambacorta, G., Hilgen, F.J., Hinnov, L., Hudson, A., **Kemp, D.B.**, Lantink, M., Laurin, J., Li, M., Liebrand, D., Ma, C., Meyers, S.R., Monkenbusch, J., Montanari, A., Nohl, T., Pälike, H., Pass, D., Ruhl, M., Thibault, N., Vahlenkamp, M., Valero, L., Wouters, S., Wu, H. & Claeys, P. 2019. The cyclostratigraphy intercomparison project (CIP): consistency, merits and pitfalls of cyclostratigraphy, Earth Science Reviews, 199, 102965, doi:10.1016/j.earscirev.2019.102965
 
 Liu, Y., Huang, C., Ogg, J.G., Algeo, T.J., **Kemp, D.B.** & Shen, W. 2019. Oscillations of global sea level elevation during the Paleogene correspond to 1.2-myr amplitude modulation of orbital obliquity cycles, Earth and Planetary Science Letters, 522, p. 65-78, doi:10.1016/j.epsl.2019.06.023
 
