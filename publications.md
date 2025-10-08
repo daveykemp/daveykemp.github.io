@@ -18,6 +18,8 @@ Over 100 papers have been published. A full listing of publications is at [Googl
   
 **2025**
 
+Han, W., Wang, T., Tian, Q., **Kemp, D.B.**, Zhang, T., Sun, B., Wang, Z., Li, M. & Fang, X. 2025. Late Eocene periodic precipitation increases and evaporite deposition on the Tibetan Plateau forced by proto-Paratethys incursions Global and Planetary Change, 255, 105100, doi:10.1016/j.gloplacha.2025.105100
+
 Li, Y., Huang, C., Lan, J., **Kemp, D.B.**, Ogg, J.G., Sinha, A., Chen, L., Wang, X., Tang, H., Lin, X., Abdel-Raheem, K.H.M., Zhang, R., Cheng, H., Edwards, L. & Tan, L. 2025. Indian summer monsoon variability across the last 9000 years: New evidence from stalagmites of southwestern China, Global and Planetary Change, 255, 105092, doi:10.1016/j.gloplacha.2025.105092
 
 **Hua, X.**, **Kemp, D.B.**, Cho, T., Ikeda, M. & Huang, C. 2025. The enigmatic Norian-Rhaetian boundary: varying carbon cycle disturbances in continental and deep marine records, Global and Planetary Change, 255, 105084, doi:10.1016/j.gloplacha.2025.105084
@@ -264,7 +266,7 @@ Miller, C.S., Gosling, W.D., **Kemp, D.B.**, Coe, A.L. & Gilmour, I. 2016. Drive
 
 **Kemp, D.B.**, Eichenseer, K. & Kiessling, W. 2015. Maximum rates of climate change are systematically underestimated in the geological record, Nature Communications, 6, doi:10.1038/ncomms9890
 
-Jolley, D.W., Gilmour I., Gilmour, M.A., Kemp D.B., and Kelley S.P. 2015. Long term resilience decline in plant ecosystems across the Danian Dan-C2 hyperthermal event, Boltysh crater, Ukraine, Journal of the Geological Society (London), 172, p. 491-498, doi:10.1144/jgs2014-130
+Jolley, D.W., Gilmour I., Gilmour, M.A., **Kemp D.B.**, and Kelley S.P. 2015. Long term resilience decline in plant ecosystems across the Danian Dan-C2 hyperthermal event, Boltysh crater, Ukraine, Journal of the Geological Society (London), 172, p. 491-498, doi:10.1144/jgs2014-130
 
 **2014**
 
