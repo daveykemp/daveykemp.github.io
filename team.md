@@ -67,7 +67,7 @@ The research team currently comprises 7 PhD students and 5 MSc students. We are 
 <table>
     <tr>
         <td>
-            <img src="/images/caomengmeng_pic.jpg" alt="Cao Mengmeng" align="top">  
+            <img src="/images/caomengmeng_pic.jpg" alt="Cao Mengmeng" align="top">
             <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
         </td>
         <td>
