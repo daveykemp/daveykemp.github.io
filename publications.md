@@ -20,7 +20,7 @@ Over 100 papers have been published. A full listing of publications is at [Googl
 
 He, X., Yuan, X., Cheng, J., **Kemp, D.B.**, Wang, X., Zhu, Z., Nie, J. & Xie, S. 2026. Large-scale avulsion of the Lower Yellow River controlled by drainage morphology, Earth and Planetary Science Letters, 683, 119982, doi:10.1016/j.epsl.2026.119982
 
-*Xu, K., Wu, N., Ren, J., Chen, H., Lei, C, Yang, X., Chen, C., Sun, Z. & **Kemp, D.B.** 2026. Hydroclimate dynamics during the middle-late Eocene from terrestrial archives in the Biyang Depression, eastern China, Palaeogeography, Palaeoclimatology, Palaeoecology, 690, 113685, doi:10.1016/j.palaeo.2026.113685
+Xu, K., Wu, N., Ren, J., Chen, H., Lei, C, Yang, X., Chen, C., Sun, Z. & **Kemp, D.B.** 2026. Hydroclimate dynamics during the middle-late Eocene from terrestrial archives in the Biyang Depression, eastern China, Palaeogeography, Palaeoclimatology, Palaeoecology, 690, 113685, doi:10.1016/j.palaeo.2026.113685
 
 Han, W., Zhang, T., Zhang, J., Ao, H. **Kemp, D.B.**, Wang, T., Sun, J., Yan, X., Wang, S., Jiangzuo, Q., Tian, Q., Fan, Y., Li, M., Meijer, N. & Fang, X. 2026. Late Miocene Asian monsoon intensification and turnover of Asian mammal communities, Communications Earth and Environment, doi:10.1038/s43247-026-03354-w
 
