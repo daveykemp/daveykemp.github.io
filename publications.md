@@ -16,7 +16,23 @@ permalink: /publications
 * * *
 Over 100 papers have been published. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
   
+**2026**
+
+He, X., Yuan, X., Cheng, J., **Kemp, D.B.**, Wang, X., Zhu, Z., Nie, J. & Xie, S. 2026. Large-scale avulsion of the Lower Yellow River controlled by drainage morphology, Earth and Planetary Science Letters, 683, 119982, doi:10.1016/j.epsl.2026.119982
+
+*Xu, K., Wu, N., Ren, J., Chen, H., Lei, C, Yang, X., Chen, C., Sun, Z. & **Kemp, D.B.** 2026. Hydroclimate dynamics during the middle-late Eocene from terrestrial archives in the Biyang Depression, eastern China, Palaeogeography, Palaeoclimatology, Palaeoecology, 690, 113685, doi:10.1016/j.palaeo.2026.113685
+
+Han, W., Zhang, T., Zhang, J., Ao, H. **Kemp, D.B.**, Wang, T., Sun, J., Yan, X., Wang, S., Jiangzuo, Q., Tian, Q., Fan, Y., Li, M., Meijer, N. & Fang, X. 2026. Late Miocene Asian monsoon intensification and turnover of Asian mammal communities, Communications Earth and Environment, doi:10.1038/s43247-026-03354-w
+
+Long, Y., Han, W., Sun, B., Fan, Y., Xiao, X., Wang, T., **Kemp, D.B.**, Shang, C., Chi, Y. & Fang, X. 2026. Late Pliocene–Quaternary climate-environment evolution on the southeastern Tibetan Plateau and links to Hominin dynamics, Catena, 262, 109670, doi:10.1016/j.catena.2025.109670
+
 **2025**
+
+Xu, K., Wu, N., Ren, J., **Kemp, D.B.**, Ye, L., Sun, Z., Yang, X., Zhang, X. & Li, M. 2025. Orbital forcing across a predominantly eolian record of the Eocene–Oligocene transition, Inner Mongolia, China, Global and Planetary Change, 257, 105247, doi: 10.1016/j.gloplacha.2025.105247
+
+Han, W., Qian, T., Zhang, J., Hui, Z., **Kemp, D.B.**, Zhang, T., Wang, Z., Mai, L., Abell, J.T. & Fang, X. 2025. Reorganization of the Northern hemisphere westerlies at 41 Ma revealed by carbonate oxygen isotopes and precipitation data from the Tibetan Plateau, Bulletin of the Geological Society of America, 138(3-4), p. 1816–1824, doi:10.1130/B38292.1
+
+**Cao, M.**, Wang, Z., **Kemp, D.B.**, Zhang, R. & Zhang, Z. 2025. Pliocene-Pleistocene weathering intensity in North China: links to temperature and Arctic ice volume, Palaeogeography, Palaeoclimatology, Palaeoecology, 680, 113329, 10.1016/j.palaeo.2025.113329
 
 Han, W., Wang, T., Tian, Q., **Kemp, D.B.**, Zhang, T., Sun, B., Wang, Z., Li, M. & Fang, X. 2025. Late Eocene periodic precipitation increases and evaporite deposition on the Tibetan Plateau forced by proto-Paratethys incursions Global and Planetary Change, 255, 105100, doi:10.1016/j.gloplacha.2025.105100
 
