@@ -103,11 +103,11 @@ The research team currently comprises 7 PhD students and 5 MSc students. We are 
     <tr>
         <td>
             <img src="/images/chenwenhan_pic.jpg" alt="Chen Wenhan" align="top">
-            <p><b>Chen Wenhan (PhD)</b><br>Graduated 2022. Now at Chengdu University of Technology</p>
+            <p><b>Chen Wenhan (PhD)</b><br>Graduated 2022. Now faculty at Chengdu University of Technology</p>
         </td>
         <td>
             <img src="/images/jinsimin_pic.jpg" alt="Jin Simin" align="top">
-            <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now post-doc in CUG Wuhan</p>
+            <p><b>Jin Simin (PhD)</b><br>Graduated 2023. Now faculty at Yangtze University</p>
         </td>
         <td>
             <img src="/images/huaxia_pic.jpg" alt="Hua Xia" align="top">
@@ -119,7 +119,7 @@ The research team currently comprises 7 PhD students and 5 MSc students. We are 
     <tr>
         <td>
           <img src="/images/zhangruiyao_pic.jpg" alt="Zhang Ruiyao" align="top">  
-          <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now at Hubei Normal University</p>
+          <p><b>Zhang Ruiyao (PhD)</b><br>Graduated 2024. Now faculty at Hubei Normal University</p>
         </td>
         <td>
         </td>
