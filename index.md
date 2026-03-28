@@ -28,7 +28,23 @@ permalink: /
 ## Latest news
 * * *
 <table>
-       <tr>
+  <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>20-03-2026</i></b><br>New paper on controls on river avulsion in China published in <i><a href="https://www.nature.com/articles/s43247-026-03354-w">Earth and Planetary Science Letters</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/heepsl_news.png" alt="He et al. Earth and Planetary Science Letters paper">
+        </td>
+    </tr> 
+  <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>03-03-2026</i></b><br>New paper on effects of monsoon changes on Miocene mammals in Asia published in <i><a href="https://www.nature.com/articles/s43247-026-03354-w">Communications: Earth and Environment</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/hancee_news.png" alt="Han et al. CEE paper">
+        </td>
+    </tr>     
+  <tr>
         <td valign="top" style="width:70%">
             <p><b><i>24-09-2025</i></b><br>New paper on effects of T-OAE climate change on terrestrial organic carbon burial published in <i><a href="https://www.nature.com/articles/s43247-025-02711-5">Communications: Earth and Environment</a></i></p>
         </td>
