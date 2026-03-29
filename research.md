@@ -18,6 +18,8 @@ Our work is focused on unravelling the climate history of the Earth through anal
 
 * Causes and consequences of rapid deoxygenation in Earth history
 * Hydroclimate responses to extreme warming
+* Anthropogenic impacts on modern sedimentary systems
+* Quantifying the mechanisms and rates of deep time climate change
 * Numerical modeling of sedimentary systems
 * Cyclostratigraphic timescale construction 
 
