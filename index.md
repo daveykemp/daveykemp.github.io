@@ -28,12 +28,44 @@ permalink: /
 ## Latest news
 * * *
 <table>
-  <tr>
+    <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>20-08-2026</i></b><br>New paper on storm activity during Late Paleozoic Ice Age published in <i><a href="https://www.nature.com/articles/s41467-026-75609-1">Nature Communications</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/yan_news.png" alt="Yan et al. Nature Communications paper">
+        </td>
+    </tr> 
+    <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>04-08-2026</i></b><br>New paper on hyperthermal N2O emissions from lakes published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G54763.1/734593/Intensified-lacustrine-nitrous-oxide-emissions?redirectedFrom=fulltext">Geology</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/ge_news.png" alt="Ge et al. Geology paper">
+        </td>
+    </tr> 
+      <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>20-07-2026</i></b><br>New paper on Mg-isotope changes across the T-OAE published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G54555.1/734116/Magnesium-isotopes-reveal-hydroclimatically?redirectedFrom=fulltext">Geology</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/han_news.png" alt="Han et al. Geology paper">
+        </td>
+    </tr> 
+    <tr>
         <td valign="top" style="width:70%">
             <p><b><i>20-03-2026</i></b><br>New paper on controls on river avulsion in China published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0012821X26001664">Earth and Planetary Science Letters</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/heepsl_news.png" alt="He et al. Earth and Planetary Science Letters paper">
+        </td>
+    </tr> 
+  <tr>
+        <td valign="top" style="width:70%">
+            <p><b><i>04-03-2026</i></b><br>New paper on controls of Paleocene carbon cycle changes published in <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0921818126002146">Global and Planetary Change</a></i></p>
+        </td>
+        <td valign="middle">
+            <img src="/images/xiaoyue_news.png" alt="Zhang et al. Global and Planetary Change paper">
         </td>
     </tr> 
   <tr>
