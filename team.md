@@ -44,7 +44,7 @@ The research team currently comprises 7 PhD students and 1 MSc student. We are a
         </td>
         <td>
             <img src="/images/liuqing_pic.jpg" alt="Liu Qing" align="top">
-            <p><b>Liu Qing</b><br>Redox and hydroclimate changes across the PETM in the North Sea</p>
+            <p><b>Liu Qing</b><br>Global hydroclimate changes across the PETM using novel geochemical proxies</p>
         </td>
     </tr>
 </table>
@@ -57,7 +57,7 @@ dd
         </td>
         <td>
             <img src="/images/sunxilei_pic.jpg" alt="Sun Xilei" align="top">  
-            <p><b>Sun Xilei</b><br>Hg cycling across major climate events, Permian-Triassic timescale</p>
+            <p><b>Sun Xilei</b><br>Hg cycling and timescales across major hyperthermal climate events</p>
         </td>
         <td>
             <img src="/images/xuguo_pic.jpg" alt="Xu Guo" align="top">  
