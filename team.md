@@ -106,11 +106,25 @@ dd
         </td>
         <td>
             <img src="/images/zhangxiaoyue_pic.jpg" alt="Zhang Xiaoyue" align="top">
-            <p><b>Zhang Xiaoyue</b><br>Orbital-scale paleoclimate evolution in the Paleocene</p>
+            <p><b>Zhang Xiaoyue (PhD)</b><br>Graduated 2026. Now postdoc at CUG</p>
         </td>
         <td>
             <img src="/images/caomengmeng_pic.jpg" alt="Cao Mengmeng" align="top">
-            <p><b>Cao Mengmeng</b><br>Orbital forcing dynamics of the Mid-Pleistocene Transition in Asia</p>
+            <p><b>Cao Mengmeng (PhD)</b><br>Graduated 2026.</p>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+          <img src="/images/zhoukui_pic.jpg" alt="Zhou Kui" align="top">  
+          <p><b>Zhou Kui (MSc)</b><br>Graduated 2026.</p>
+        </td>
+        <td>
+            <img src="/images/wanxin_pic.jpg" alt="Wan Xin" align="top">
+            <p><b>Wan Xin (MSc)</b><br>Graduated 2026.</p>
+        </td>
+        <td>
         </td>
     </tr>
 </table>
