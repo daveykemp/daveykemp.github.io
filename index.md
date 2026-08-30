@@ -38,7 +38,7 @@ permalink: /
     </tr> 
     <tr>
         <td valign="top" style="width:70%">
-            <p><b><i>04-08-2026</i></b><br>New paper on hyperthermal N2O emissions from lakes published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G54763.1/734593/Intensified-lacustrine-nitrous-oxide-emissions?redirectedFrom=fulltext">Geology</a></i></p>
+            <p><b><i>04-08-2026</i></b><br>New paper on N2O emissions from lakes during hyperthermals published in <i><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G54763.1/734593/Intensified-lacustrine-nitrous-oxide-emissions?redirectedFrom=fulltext">Geology</a></i></p>
         </td>
         <td valign="middle">
             <img src="/images/ge_news.png" alt="Ge et al. Geology paper">
