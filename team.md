@@ -110,7 +110,7 @@ dd
         </td>
         <td>
             <img src="/images/caomengmeng_pic.jpg" alt="Cao Mengmeng" align="top">
-            <p><b>Cao Mengmeng (PhD)</b><br>Graduated 2026.</p>
+            <p><b>Cao Mengmeng (PhD)</b><br>Graduated 2026</p>
         </td>
     </tr>
 </table>
@@ -118,11 +118,11 @@ dd
     <tr>
         <td>
           <img src="/images/zhoukui_pic.jpg" alt="Zhou Kui" align="top">  
-          <p><b>Zhou Kui (MSc)</b><br>Graduated 2026.</p>
+          <p><b>Zhou Kui (MSc)</b><br>Graduated 2026</p>
         </td>
         <td>
             <img src="/images/wanxin_pic.jpg" alt="Wan Xin" align="top">
-            <p><b>Wan Xin (MSc)</b><br>Graduated 2026.</p>
+            <p><b>Wan Xin (MSc)</b><br>Graduated 2026</p>
         </td>
         <td>
         </td>
