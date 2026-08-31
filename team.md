@@ -50,7 +50,6 @@ The research team currently comprises 7 PhD students and 1 MSc student. We are a
 </table>
 <table>
     <tr>
-dd
         <td>
             <img src="/images/jiangshouyi_pic.jpg" alt="Jiang Shouyi" align="top">  
             <p><b>Jiang Shouyi</b><br>Foraminifera and redox responses to the Toarcian OAE in Tibet</p>
