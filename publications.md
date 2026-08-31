@@ -17,6 +17,13 @@ permalink: /publications
 Over 100 papers have been published. A full listing of publications is at [Google Scholar](https://scholar.google.com/citations?user=Z1VKIocAAAAJ&hl=en)
   
 **2026**
+**Zhang, R., Kemp, D.B., Zhang, X.**, Zhang, Z., Wang, Z., Zhang, C., Xiao, A., **Zhang, R.**, Chen, W., Li, Y. &  Huang, C. 2026. Multi-proxy responses to orbital-scale climate change in the Gonjo Basin, Tibet, during the Early Eocene Climatic Optimum (EECO). Earth Science Frontiers, doi:10.13745/j.esf.sf.2026.7.51 [in Chinese with English abstract]
+
+Yan, Q., Macarewich, S., Jiang, N., **Kemp, D.B.**, Huan, D., Poulsen, C.J., Zhang, J., Zhang, Z. & Wang, H. 2026. Widespread tropical cyclone activity during the Late Paleozoic Ice Age, Nature Communications, 17, 8879, doi: 10.1038/s41467-026-75609-1
+
+**Chen, W., Kemp, D.B.**, Jenkyns, H.C., Robinson, S.A., Lin, Y., Hu, J., Han, Z., He, T., Zhang, F., **Sun, X.**, Shi, G. & Li, C. 2026. Barium isotopes indicate spatiotemporal heterogeneity of marine primary productivity during the Toarcian Oceanic Anoxic Event, Geophysical Research Letters, 53, e2026GL121983, doi:10.1029/2026GL121983
+
+**Zhang, X., Kemp, D.B.**, Vieira, M., Huang, C., **Jin, S., Zhang, R.** & Jolley, D.J. 2026. Astronomical and volcanic forcing of Paleocene carbon cycle perturbations in the North Sea Basin, Global and Planetary Change, 263, 105493, doi:10.1016/j.gloplacha.2026.105493
 
 He, X., Yuan, X., Cheng, J., **Kemp, D.B.**, Wang, X., Zhu, Z., Nie, J. & Xie, S. 2026. Large-scale avulsion of the Lower Yellow River controlled by drainage morphology, Earth and Planetary Science Letters, 683, 119982, doi:10.1016/j.epsl.2026.119982
 
