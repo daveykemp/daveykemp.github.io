@@ -18,6 +18,14 @@ Over 100 papers have been published. A full listing of publications is at [Googl
   
 **2026**
 
+Sun, B., Han, W., Wang, T., **Kemp, D.B.**, Shang, C., Long, Y., Mai, L., Chi, Y. & Fang, X. 2026. Antarctic ice expansion forced climatic divergence in East and Central Asia at 2.0 Ma, Bulletin of the Geological Society of America, doi:10.1130/B38549.1
+
+Han, Z., Hu, Z., Guo, J., Parente, M., **Kemp, D.B.**, Remírez, M.N, Yuan, S., Li, X., Hu, Y., Jenkyns, H.C., Chen, X., Franceschi, M. & Hu, X. 2026. Magnesium isotopes reveal hydroclimatically amplified low-latitude weathering during the early Toarcian, Geology, doi:10.1130/G54555.1
+
+Ge, Y., Han, Z., Uveges, B.T., Jenkyns, H.C., **Kemp, D.B.**, Cui, Y., Yang, T., Zhang, S., Tian, H. & Hu, X. 2026. Intensified lacustrine nitrous oxide emissions linked to global climate warming during the Toarcian Oceanic Anoxic Event, Geology, doi:10.1130/G54763.1
+
+Xu, Q., **Chen, W.**, Zhang, C., Xu, H., Sun, S., Gao, X., **Kemp, D.B.**, Deng, S., Xiong, F. & Li, C. 2026. First High-Precision U–Pb Age for the Early Jurassic Beipiao Formation (NE China): Implications for Source Rock Deposition and the Toarcian Hyperthermal Event, Petroleum Science, doi: /10.1016/j.petsci.2026.07.051
+
 **Zhang, R., Kemp, D.B., Zhang, X.**, Zhang, Z., Wang, Z., Zhang, C., Xiao, A., **Zhang, R.**, Chen, W., Li, Y. &  Huang, C. 2026. Multi-proxy responses to orbital-scale climate change in the Gonjo Basin, Tibet, during the Early Eocene Climatic Optimum (EECO). Earth Science Frontiers, doi:10.13745/j.esf.sf.2026.7.51 [in Chinese with English abstract]
 
 Yan, Q., Macarewich, S., Jiang, N., **Kemp, D.B.**, Huan, D., Poulsen, C.J., Zhang, J., Zhang, Z. & Wang, H. 2026. Widespread tropical cyclone activity during the Late Paleozoic Ice Age, Nature Communications, 17, 8879, doi: 10.1038/s41467-026-75609-1
